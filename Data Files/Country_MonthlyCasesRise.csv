@@ -1,0 +1,1620 @@
+Continent,Country,MonthYear,Year,Month,TotalCases,TotalDeaths
+Africa,Algeria,Apr-20,2020,4,3848,444
+Africa,Algeria,Aug-20,2020,8,44146,1501
+Africa,Algeria,Dec-19,2019,12,0,0
+Africa,Algeria,Feb-20,2020,2,1,0
+Africa,Algeria,Jan-20,2020,1,0,0
+Africa,Algeria,Jul-20,2020,7,29831,1200
+Africa,Algeria,Jun-20,2020,6,13571,905
+Africa,Algeria,Mar-20,2020,3,584,35
+Africa,Algeria,May-20,2020,5,9267,646
+Africa,Algeria,Oct-20,2020,10,52399,1773
+Africa,Algeria,Sep-20,2020,9,51368,1726
+Africa,Angola,Apr-20,2020,4,27,2
+Africa,Angola,Aug-20,2020,8,2624,107
+Africa,Angola,Jul-20,2020,7,1078,48
+Africa,Angola,Jun-20,2020,6,276,11
+Africa,Angola,Mar-20,2020,3,7,2
+Africa,Angola,May-20,2020,5,84,4
+Africa,Angola,Oct-20,2020,10,5725,211
+Africa,Angola,Sep-20,2020,9,4905,179
+Africa,Benin,Apr-20,2020,4,69,2
+Africa,Benin,Aug-20,2020,8,2145,40
+Africa,Benin,Jul-20,2020,7,1770,35
+Africa,Benin,Jun-20,2020,6,1187,19
+Africa,Benin,Mar-20,2020,3,6,0
+Africa,Benin,May-20,2020,5,232,3
+Africa,Benin,Oct-20,2020,10,2357,41
+Africa,Benin,Sep-20,2020,9,2340,40
+Africa,Botswana,Apr-20,2020,4,23,1
+Africa,Botswana,Aug-20,2020,8,1633,6
+Africa,Botswana,Jul-20,2020,7,804,2
+Africa,Botswana,Jun-20,2020,6,175,1
+Africa,Botswana,May-20,2020,5,35,1
+Africa,Botswana,Oct-20,2020,10,3172,16
+Africa,Botswana,Sep-20,2020,9,3172,16
+Africa,Burkina Faso,Apr-20,2020,4,641,43
+Africa,Burkina Faso,Aug-20,2020,8,1368,55
+Africa,Burkina Faso,Jul-20,2020,7,1117,53
+Africa,Burkina Faso,Jun-20,2020,6,959,53
+Africa,Burkina Faso,Mar-20,2020,3,222,12
+Africa,Burkina Faso,May-20,2020,5,853,53
+Africa,Burkina Faso,Oct-20,2020,10,2197,59
+Africa,Burkina Faso,Sep-20,2020,9,2032,58
+Africa,Burundi,Apr-20,2020,4,15,1
+Africa,Burundi,Aug-20,2020,8,445,1
+Africa,Burundi,Jul-20,2020,7,387,1
+Africa,Burundi,Jun-20,2020,6,170,1
+Africa,Burundi,May-20,2020,5,42,1
+Africa,Burundi,Oct-20,2020,10,514,1
+Africa,Burundi,Sep-20,2020,9,506,1
+Africa,Cameroon,Apr-20,2020,4,1832,61
+Africa,Cameroon,Aug-20,2020,8,19142,411
+Africa,Cameroon,Jul-20,2020,7,17255,387
+Africa,Cameroon,Jun-20,2020,6,12592,313
+Africa,Cameroon,Mar-20,2020,3,142,2
+Africa,Cameroon,May-20,2020,5,5904,191
+Africa,Cameroon,Oct-20,2020,10,20924,420
+Africa,Cameroon,Sep-20,2020,9,20838,418
+Africa,Cape Verde,Apr-20,2020,4,113,1
+Africa,Cape Verde,Aug-20,2020,8,3852,40
+Africa,Cape Verde,Jul-20,2020,7,2373,23
+Africa,Cape Verde,Jun-20,2020,6,1165,12
+Africa,Cape Verde,Mar-20,2020,3,5,1
+Africa,Cape Verde,May-20,2020,5,421,4
+Africa,Cape Verde,Oct-20,2020,10,6518,69
+Africa,Cape Verde,Sep-20,2020,9,5900,59
+Africa,Central African Republic,Apr-20,2020,4,50,0
+Africa,Central African Republic,Aug-20,2020,8,4700,61
+Africa,Central African Republic,Jul-20,2020,7,4605,59
+Africa,Central African Republic,Jun-20,2020,6,3613,47
+Africa,Central African Republic,Mar-20,2020,3,6,0
+Africa,Central African Republic,May-20,2020,5,962,1
+Africa,Central African Republic,Oct-20,2020,10,4852,62
+Africa,Central African Republic,Sep-20,2020,9,4825,62
+Africa,Chad,Apr-20,2020,4,52,2
+Africa,Chad,Aug-20,2020,8,1012,77
+Africa,Chad,Jul-20,2020,7,935,75
+Africa,Chad,Jun-20,2020,6,866,74
+Africa,Chad,Mar-20,2020,3,7,0
+Africa,Chad,May-20,2020,5,759,65
+Africa,Chad,Oct-20,2020,10,1238,88
+Africa,Chad,Sep-20,2020,9,1193,85
+Africa,Comoros,Aug-20,2020,8,423,7
+Africa,Comoros,Jul-20,2020,7,378,7
+Africa,Comoros,Jun-20,2020,6,272,7
+Africa,Comoros,May-20,2020,5,106,2
+Africa,Comoros,Oct-20,2020,10,491,7
+Africa,Comoros,Sep-20,2020,9,479,7
+Africa,"Congo, Dem. Rep.",Apr-20,2020,4,500,31
+Africa,"Congo, Dem. Rep.",Aug-20,2020,8,10044,257
+Africa,"Congo, Dem. Rep.",Jul-20,2020,7,9010,214
+Africa,"Congo, Dem. Rep.",Jun-20,2020,6,6939,167
+Africa,"Congo, Dem. Rep.",Mar-20,2020,3,98,8
+Africa,"Congo, Dem. Rep.",May-20,2020,5,2966,69
+Africa,"Congo, Dem. Rep.",Oct-20,2020,10,10778,274
+Africa,"Congo, Dem. Rep.",Sep-20,2020,9,10630,271
+Africa,"Congo, Rep.",Apr-20,2020,4,220,9
+Africa,"Congo, Rep.",Aug-20,2020,8,3979,78
+Africa,"Congo, Rep.",Jul-20,2020,7,3376,56
+Africa,"Congo, Rep.",Jun-20,2020,6,1245,40
+Africa,"Congo, Rep.",Mar-20,2020,3,19,0
+Africa,"Congo, Rep.",May-20,2020,5,587,19
+Africa,"Congo, Rep.",Oct-20,2020,10,5089,89
+Africa,"Congo, Rep.",Sep-20,2020,9,5089,89
+Africa,Cote d'Ivoire,Apr-20,2020,4,1238,14
+Africa,Cote d'Ivoire,Aug-20,2020,8,17948,115
+Africa,Cote d'Ivoire,Jul-20,2020,7,15978,100
+Africa,Cote d'Ivoire,Jun-20,2020,6,9214,66
+Africa,Cote d'Ivoire,Mar-20,2020,3,168,1
+Africa,Cote d'Ivoire,May-20,2020,5,2799,33
+Africa,Cote d'Ivoire,Oct-20,2020,10,19903,120
+Africa,Cote d'Ivoire,Sep-20,2020,9,19669,120
+Africa,Djibouti,Apr-20,2020,4,1077,2
+Africa,Djibouti,Aug-20,2020,8,5385,60
+Africa,Djibouti,Jul-20,2020,7,5081,58
+Africa,Djibouti,Jun-20,2020,6,4656,53
+Africa,Djibouti,Mar-20,2020,3,26,0
+Africa,Djibouti,May-20,2020,5,3194,22
+Africa,Djibouti,Oct-20,2020,10,5423,61
+Africa,Djibouti,Sep-20,2020,9,5416,61
+Africa,Egypt,Apr-20,2020,4,5268,380
+Africa,Egypt,Aug-20,2020,8,98727,5399
+Africa,Egypt,Dec-19,2019,12,0,0
+Africa,Egypt,Feb-20,2020,2,1,0
+Africa,Egypt,Jan-20,2020,1,0,0
+Africa,Egypt,Jul-20,2020,7,93757,4774
+Africa,Egypt,Jun-20,2020,6,66754,2872
+Africa,Egypt,Mar-20,2020,3,609,40
+Africa,Egypt,May-20,2020,5,23449,913
+Africa,Egypt,Oct-20,2020,10,103902,6001
+Africa,Egypt,Sep-20,2020,9,103079,5914
+Africa,Equatorial Guinea,Apr-20,2020,4,315,1
+Africa,Equatorial Guinea,Aug-20,2020,8,4941,83
+Africa,Equatorial Guinea,Jul-20,2020,7,3071,51
+Africa,Equatorial Guinea,Jun-20,2020,6,2001,32
+Africa,Equatorial Guinea,Mar-20,2020,3,14,0
+Africa,Equatorial Guinea,May-20,2020,5,1306,12
+Africa,Equatorial Guinea,Oct-20,2020,10,5052,83
+Africa,Equatorial Guinea,Sep-20,2020,9,5030,83
+Africa,Eritrea,Apr-20,2020,4,39,0
+Africa,Eritrea,Aug-20,2020,8,318,0
+Africa,Eritrea,Jul-20,2020,7,279,0
+Africa,Eritrea,Jun-20,2020,6,191,0
+Africa,Eritrea,Mar-20,2020,3,12,0
+Africa,Eritrea,May-20,2020,5,39,0
+Africa,Eritrea,Oct-20,2020,10,398,0
+Africa,Eritrea,Sep-20,2020,9,375,0
+Africa,Ethiopia,Apr-20,2020,4,130,3
+Africa,Ethiopia,Aug-20,2020,8,51122,793
+Africa,Ethiopia,Jul-20,2020,7,16615,263
+Africa,Ethiopia,Jun-20,2020,6,5846,103
+Africa,Ethiopia,Mar-20,2020,3,23,0
+Africa,Ethiopia,May-20,2020,5,1063,8
+Africa,Ethiopia,Oct-20,2020,10,80003,1238
+Africa,Ethiopia,Sep-20,2020,9,74584,1191
+Africa,Gabon,Apr-20,2020,4,276,3
+Africa,Gabon,Aug-20,2020,8,8505,53
+Africa,Gabon,Jul-20,2020,7,7352,49
+Africa,Gabon,Jun-20,2020,6,5394,42
+Africa,Gabon,Mar-20,2020,3,7,1
+Africa,Gabon,May-20,2020,5,2655,17
+Africa,Gabon,Oct-20,2020,10,8808,54
+Africa,Gabon,Sep-20,2020,9,8752,54
+Africa,Gambia,Apr-20,2020,4,11,1
+Africa,Gambia,Aug-20,2020,8,2963,96
+Africa,Gambia,Jul-20,2020,7,403,8
+Africa,Gambia,Jun-20,2020,6,47,2
+Africa,Gambia,Mar-20,2020,3,4,1
+Africa,Gambia,May-20,2020,5,25,1
+Africa,Gambia,Oct-20,2020,10,3613,117
+Africa,Gambia,Sep-20,2020,9,3579,112
+Africa,Ghana,Apr-20,2020,4,1671,16
+Africa,Ghana,Aug-20,2020,8,44205,276
+Africa,Ghana,Jul-20,2020,7,35142,175
+Africa,Ghana,Jun-20,2020,6,17351,112
+Africa,Ghana,Mar-20,2020,3,152,5
+Africa,Ghana,May-20,2020,5,7768,35
+Africa,Ghana,Oct-20,2020,10,46829,303
+Africa,Ghana,Sep-20,2020,9,46482,301
+Africa,Guinea,Apr-20,2020,4,1351,7
+Africa,Guinea,Aug-20,2020,8,9371,59
+Africa,Guinea,Jul-20,2020,7,7242,46
+Africa,Guinea,Jun-20,2020,6,5351,31
+Africa,Guinea,Mar-20,2020,3,16,0
+Africa,Guinea,May-20,2020,5,3706,23
+Africa,Guinea,Oct-20,2020,10,10863,68
+Africa,Guinea,Sep-20,2020,9,10634,66
+Africa,Guinea-Bissau,Apr-20,2020,4,77,1
+Africa,Guinea-Bissau,Aug-20,2020,8,2205,34
+Africa,Guinea-Bissau,Jul-20,2020,7,1981,26
+Africa,Guinea-Bissau,Jun-20,2020,6,1614,21
+Africa,Guinea-Bissau,Mar-20,2020,3,2,0
+Africa,Guinea-Bissau,May-20,2020,5,1256,8
+Africa,Guinea-Bissau,Oct-20,2020,10,2362,39
+Africa,Guinea-Bissau,Sep-20,2020,9,2324,39
+Africa,Kenya,Apr-20,2020,4,384,15
+Africa,Kenya,Aug-20,2020,8,34057,574
+Africa,Kenya,Jul-20,2020,7,19913,325
+Africa,Kenya,Jun-20,2020,6,6190,144
+Africa,Kenya,Mar-20,2020,3,50,1
+Africa,Kenya,May-20,2020,5,1888,63
+Africa,Kenya,Oct-20,2020,10,39586,743
+Africa,Kenya,Sep-20,2020,9,38378,707
+Africa,Lesotho,Aug-20,2020,8,1066,31
+Africa,Lesotho,Jul-20,2020,7,604,13
+Africa,Lesotho,Jun-20,2020,6,27,0
+Africa,Lesotho,May-20,2020,5,2,0
+Africa,Lesotho,Oct-20,2020,10,1683,39
+Africa,Lesotho,Sep-20,2020,9,1576,35
+Africa,Liberia,Apr-20,2020,4,141,16
+Africa,Liberia,Aug-20,2020,8,1304,82
+Africa,Liberia,Jul-20,2020,7,1181,73
+Africa,Liberia,Jun-20,2020,6,770,36
+Africa,Liberia,Mar-20,2020,3,3,0
+Africa,Liberia,May-20,2020,5,280,27
+Africa,Liberia,Oct-20,2020,10,1354,82
+Africa,Liberia,Sep-20,2020,9,1343,82
+Africa,Libya,Apr-20,2020,4,61,2
+Africa,Libya,Aug-20,2020,8,13423,232
+Africa,Libya,Jul-20,2020,7,3222,71
+Africa,Libya,Jun-20,2020,6,762,21
+Africa,Libya,Mar-20,2020,3,8,0
+Africa,Libya,May-20,2020,5,130,5
+Africa,Libya,Oct-20,2020,10,38468,602
+Africa,Libya,Sep-20,2020,9,34014,540
+Africa,Madagascar,Apr-20,2020,4,128,0
+Africa,Madagascar,Aug-20,2020,8,14843,191
+Africa,Madagascar,Jul-20,2020,7,10748,105
+Africa,Madagascar,Jun-20,2020,6,2138,20
+Africa,Madagascar,Mar-20,2020,3,44,0
+Africa,Madagascar,May-20,2020,5,758,6
+Africa,Madagascar,Oct-20,2020,10,16600,234
+Africa,Madagascar,Sep-20,2020,9,16377,229
+Africa,Malawi,Apr-20,2020,4,36,3
+Africa,Malawi,Aug-20,2020,8,5536,174
+Africa,Malawi,Jul-20,2020,7,3981,109
+Africa,Malawi,Jun-20,2020,6,1224,14
+Africa,Malawi,May-20,2020,5,279,4
+Africa,Malawi,Oct-20,2020,10,5796,180
+Africa,Malawi,Sep-20,2020,9,5772,179
+Africa,Mali,Apr-20,2020,4,482,25
+Africa,Mali,Aug-20,2020,8,2773,126
+Africa,Mali,Jul-20,2020,7,2522,124
+Africa,Mali,Jun-20,2020,6,2173,115
+Africa,Mali,Mar-20,2020,3,18,0
+Africa,Mali,May-20,2020,5,1250,76
+Africa,Mali,Oct-20,2020,10,3195,131
+Africa,Mali,Sep-20,2020,9,3090,130
+Africa,Mauritania,Apr-20,2020,4,7,1
+Africa,Mauritania,Aug-20,2020,8,7022,159
+Africa,Mauritania,Jul-20,2020,7,6270,156
+Africa,Mauritania,Jun-20,2020,6,4149,126
+Africa,Mauritania,Mar-20,2020,3,5,0
+Africa,Mauritania,May-20,2020,5,483,21
+Africa,Mauritania,Oct-20,2020,10,7523,162
+Africa,Mauritania,Sep-20,2020,9,7474,161
+Africa,Mauritius,Apr-20,2020,4,332,10
+Africa,Mauritius,Aug-20,2020,8,346,10
+Africa,Mauritius,Jul-20,2020,7,344,10
+Africa,Mauritius,Jun-20,2020,6,341,10
+Africa,Mauritius,Mar-20,2020,3,128,3
+Africa,Mauritius,May-20,2020,5,335,10
+Africa,Mauritius,Oct-20,2020,10,395,10
+Africa,Mauritius,Sep-20,2020,9,381,10
+Africa,Morocco,Apr-20,2020,4,4321,168
+Africa,Morocco,Aug-20,2020,8,61399,1111
+Africa,Morocco,Jul-20,2020,7,23259,346
+Africa,Morocco,Jun-20,2020,6,12290,225
+Africa,Morocco,Mar-20,2020,3,556,33
+Africa,Morocco,May-20,2020,5,7780,204
+Africa,Morocco,Oct-20,2020,10,137248,2410
+Africa,Morocco,Sep-20,2020,9,121183,2152
+Africa,Mozambique,Apr-20,2020,4,76,0
+Africa,Mozambique,Aug-20,2020,8,3821,23
+Africa,Mozambique,Jul-20,2020,7,1808,11
+Africa,Mozambique,Jun-20,2020,6,883,6
+Africa,Mozambique,Mar-20,2020,3,8,0
+Africa,Mozambique,May-20,2020,5,244,2
+Africa,Mozambique,Oct-20,2020,10,9398,67
+Africa,Mozambique,Sep-20,2020,9,8556,59
+Africa,Namibia,Apr-20,2020,4,16,0
+Africa,Namibia,Aug-20,2020,8,7365,72
+Africa,Namibia,Jul-20,2020,7,2052,10
+Africa,Namibia,Jun-20,2020,6,196,0
+Africa,Namibia,Mar-20,2020,3,11,0
+Africa,Namibia,May-20,2020,5,23,0
+Africa,Namibia,Oct-20,2020,10,11673,125
+Africa,Namibia,Sep-20,2020,9,11140,121
+Africa,Niger,Apr-20,2020,4,713,32
+Africa,Niger,Aug-20,2020,8,1176,69
+Africa,Niger,Jul-20,2020,7,1134,69
+Africa,Niger,Jun-20,2020,6,1075,67
+Africa,Niger,Mar-20,2020,3,20,3
+Africa,Niger,May-20,2020,5,956,64
+Africa,Niger,Oct-20,2020,10,1200,69
+Africa,Niger,Sep-20,2020,9,1196,69
+Africa,Nigeria,Apr-20,2020,4,1728,51
+Africa,Nigeria,Aug-20,2020,8,53865,1013
+Africa,Nigeria,Dec-19,2019,12,0,0
+Africa,Nigeria,Feb-20,2020,2,1,0
+Africa,Nigeria,Jan-20,2020,1,0,0
+Africa,Nigeria,Jul-20,2020,7,42689,878
+Africa,Nigeria,Jun-20,2020,6,25133,573
+Africa,Nigeria,Mar-20,2020,3,131,2
+Africa,Nigeria,May-20,2020,5,9855,273
+Africa,Nigeria,Oct-20,2020,10,59583,1113
+Africa,Nigeria,Sep-20,2020,9,58647,1111
+Africa,Rwanda,Apr-20,2020,4,225,0
+Africa,Rwanda,Aug-20,2020,8,4020,16
+Africa,Rwanda,Jul-20,2020,7,1994,5
+Africa,Rwanda,Jun-20,2020,6,1001,2
+Africa,Rwanda,Mar-20,2020,3,70,0
+Africa,Rwanda,May-20,2020,5,359,1
+Africa,Rwanda,Oct-20,2020,10,4873,29
+Africa,Rwanda,Sep-20,2020,9,4836,29
+Africa,Sao Tome and Principe,Apr-20,2020,4,14,0
+Africa,Sao Tome and Principe,Aug-20,2020,8,896,15
+Africa,Sao Tome and Principe,Jul-20,2020,7,870,15
+Africa,Sao Tome and Principe,Jun-20,2020,6,713,13
+Africa,Sao Tome and Principe,May-20,2020,5,479,12
+Africa,Sao Tome and Principe,Oct-20,2020,10,914,15
+Africa,Sao Tome and Principe,Sep-20,2020,9,911,15
+Africa,Senegal,Apr-20,2020,4,882,9
+Africa,Senegal,Aug-20,2020,8,13556,284
+Africa,Senegal,Jul-20,2020,7,10106,204
+Africa,Senegal,Jun-20,2020,6,6698,108
+Africa,Senegal,Mar-20,2020,3,162,0
+Africa,Senegal,May-20,2020,5,3535,42
+Africa,Senegal,Oct-20,2020,10,15141,312
+Africa,Senegal,Sep-20,2020,9,14945,310
+Africa,Seychelles,Apr-20,2020,4,11,0
+Africa,Seychelles,Aug-20,2020,8,136,0
+Africa,Seychelles,Jul-20,2020,7,114,0
+Africa,Seychelles,Jun-20,2020,6,11,0
+Africa,Seychelles,Mar-20,2020,3,10,0
+Africa,Seychelles,May-20,2020,5,11,0
+Africa,Seychelles,Oct-20,2020,10,148,0
+Africa,Seychelles,Sep-20,2020,9,143,0
+Africa,Sierra Leone,Apr-20,2020,4,116,4
+Africa,Sierra Leone,Aug-20,2020,8,2022,70
+Africa,Sierra Leone,Jul-20,2020,7,1818,67
+Africa,Sierra Leone,Jun-20,2020,6,1450,60
+Africa,Sierra Leone,May-20,2020,5,852,46
+Africa,Sierra Leone,Oct-20,2020,10,2277,72
+Africa,Sierra Leone,Sep-20,2020,9,2222,72
+Africa,Somalia,Apr-20,2020,4,582,28
+Africa,Somalia,Aug-20,2020,8,3310,97
+Africa,Somalia,Jul-20,2020,7,3212,93
+Africa,Somalia,Jun-20,2020,6,2904,90
+Africa,Somalia,Mar-20,2020,3,3,0
+Africa,Somalia,May-20,2020,5,1916,73
+Africa,Somalia,Oct-20,2020,10,3745,99
+Africa,Somalia,Sep-20,2020,9,3588,99
+Africa,South Africa,Apr-20,2020,4,5350,103
+Africa,South Africa,Aug-20,2020,8,625056,14028
+Africa,South Africa,Jul-20,2020,7,482169,7812
+Africa,South Africa,Jun-20,2020,6,144264,2529
+Africa,South Africa,Mar-20,2020,3,1326,3
+Africa,South Africa,May-20,2020,5,30967,643
+Africa,South Africa,Oct-20,2020,10,683242,17103
+Africa,South Africa,Sep-20,2020,9,672572,16667
+Africa,South Sudan,Apr-20,2020,4,34,0
+Africa,South Sudan,Aug-20,2020,8,2519,47
+Africa,South Sudan,Jul-20,2020,7,2322,46
+Africa,South Sudan,Jun-20,2020,6,2006,37
+Africa,South Sudan,May-20,2020,5,994,10
+Africa,South Sudan,Oct-20,2020,10,2734,50
+Africa,South Sudan,Sep-20,2020,9,2700,49
+Africa,Sudan,Apr-20,2020,4,375,28
+Africa,Sudan,Aug-20,2020,8,13189,823
+Africa,Sudan,Jul-20,2020,7,11496,725
+Africa,Sudan,Jun-20,2020,6,9258,572
+Africa,Sudan,Mar-20,2020,3,6,2
+Africa,Sudan,May-20,2020,5,4800,262
+Africa,Sudan,Oct-20,2020,10,13653,836
+Africa,Sudan,Sep-20,2020,9,13606,836
+Africa,Swaziland,Apr-20,2020,4,91,1
+Africa,Swaziland,Aug-20,2020,8,4561,91
+Africa,Swaziland,Jul-20,2020,7,2577,40
+Africa,Swaziland,Jun-20,2020,6,795,11
+Africa,Swaziland,Mar-20,2020,3,9,0
+Africa,Swaziland,May-20,2020,5,283,2
+Africa,Swaziland,Oct-20,2020,10,5598,112
+Africa,Swaziland,Sep-20,2020,9,5462,108
+Africa,Tanzania,Apr-20,2020,4,480,16
+Africa,Tanzania,Aug-20,2020,8,509,21
+Africa,Tanzania,Jul-20,2020,7,509,21
+Africa,Tanzania,Jun-20,2020,6,509,21
+Africa,Tanzania,Mar-20,2020,3,19,1
+Africa,Tanzania,May-20,2020,5,509,21
+Africa,Tanzania,Oct-20,2020,10,509,21
+Africa,Tanzania,Sep-20,2020,9,509,21
+Africa,Togo,Apr-20,2020,4,109,7
+Africa,Togo,Aug-20,2020,8,1396,27
+Africa,Togo,Jul-20,2020,7,927,18
+Africa,Togo,Jun-20,2020,6,643,14
+Africa,Togo,Mar-20,2020,3,34,1
+Africa,Togo,May-20,2020,5,433,13
+Africa,Togo,Oct-20,2020,10,1881,49
+Africa,Togo,Sep-20,2020,9,1759,48
+Africa,Tunisia,Apr-20,2020,4,980,40
+Africa,Tunisia,Aug-20,2020,8,3685,76
+Africa,Tunisia,Jul-20,2020,7,1514,50
+Africa,Tunisia,Jun-20,2020,6,1172,50
+Africa,Tunisia,Mar-20,2020,3,312,8
+Africa,Tunisia,May-20,2020,5,1076,48
+Africa,Tunisia,Oct-20,2020,10,23453,321
+Africa,Tunisia,Sep-20,2020,9,17405,246
+Africa,Uganda,Apr-20,2020,4,81,0
+Africa,Uganda,Aug-20,2020,8,2928,30
+Africa,Uganda,Jul-20,2020,7,1147,2
+Africa,Uganda,Jun-20,2020,6,870,0
+Africa,Uganda,Mar-20,2020,3,33,0
+Africa,Uganda,May-20,2020,5,413,0
+Africa,Uganda,Oct-20,2020,10,9082,84
+Africa,Uganda,Sep-20,2020,9,8017,75
+Africa,Zambia,Apr-20,2020,4,97,3
+Africa,Zambia,Aug-20,2020,8,12025,287
+Africa,Zambia,Jul-20,2020,7,5555,149
+Africa,Zambia,Jun-20,2020,6,1568,22
+Africa,Zambia,Mar-20,2020,3,35,0
+Africa,Zambia,May-20,2020,5,1057,7
+Africa,Zambia,Oct-20,2020,10,15170,334
+Africa,Zambia,Sep-20,2020,9,14715,332
+Africa,Zimbabwe,Apr-20,2020,4,34,4
+Africa,Zimbabwe,Aug-20,2020,8,6412,196
+Africa,Zimbabwe,Jul-20,2020,7,3092,53
+Africa,Zimbabwe,Jun-20,2020,6,574,7
+Africa,Zimbabwe,Mar-20,2020,3,7,1
+Africa,Zimbabwe,May-20,2020,5,174,4
+Africa,Zimbabwe,Oct-20,2020,10,7915,229
+Africa,Zimbabwe,Sep-20,2020,9,7837,228
+Asia,Afghanistan,Apr-20,2020,4,1949,60
+Asia,Afghanistan,Aug-20,2020,8,38162,1402
+Asia,Afghanistan,Dec-19,2019,12,0,0
+Asia,Afghanistan,Feb-20,2020,2,1,0
+Asia,Afghanistan,Jan-20,2020,1,0,0
+Asia,Afghanistan,Jul-20,2020,7,36542,1271
+Asia,Afghanistan,Jun-20,2020,6,31238,733
+Asia,Afghanistan,Mar-20,2020,3,141,4
+Asia,Afghanistan,May-20,2020,5,14525,249
+Asia,Afghanistan,Oct-20,2020,10,39548,1469
+Asia,Afghanistan,Sep-20,2020,9,39254,1458
+Asia,Bahrain,Apr-20,2020,4,2921,8
+Asia,Bahrain,Aug-20,2020,8,51574,189
+Asia,Bahrain,Dec-19,2019,12,0,0
+Asia,Bahrain,Feb-20,2020,2,38,0
+Asia,Bahrain,Jan-20,2020,1,0,0
+Asia,Bahrain,Jul-20,2020,7,40755,146
+Asia,Bahrain,Jun-20,2020,6,26239,84
+Asia,Bahrain,Mar-20,2020,3,515,4
+Asia,Bahrain,May-20,2020,5,10793,17
+Asia,Bahrain,Oct-20,2020,10,73476,262
+Asia,Bahrain,Sep-20,2020,9,70422,246
+Asia,Bangladesh,Apr-20,2020,4,7103,163
+Asia,Bangladesh,Aug-20,2020,8,310822,4248
+Asia,Bangladesh,Jul-20,2020,7,234889,3083
+Asia,Bangladesh,Jun-20,2020,6,141801,1783
+Asia,Bangladesh,Mar-20,2020,3,49,5
+Asia,Bangladesh,May-20,2020,5,44608,610
+Asia,Bangladesh,Oct-20,2020,10,371631,5405
+Asia,Bangladesh,Sep-20,2020,9,362043,5219
+Asia,Bhutan,Apr-20,2020,4,7,0
+Asia,Bhutan,Aug-20,2020,8,224,0
+Asia,Bhutan,Jul-20,2020,7,101,0
+Asia,Bhutan,Jun-20,2020,6,77,0
+Asia,Bhutan,Mar-20,2020,3,4,0
+Asia,Bhutan,May-20,2020,5,43,0
+Asia,Bhutan,Oct-20,2020,10,300,0
+Asia,Bhutan,Sep-20,2020,9,281,0
+Asia,Brunei,Apr-20,2020,4,138,1
+Asia,Brunei,Aug-20,2020,8,144,3
+Asia,Brunei,Jul-20,2020,7,141,3
+Asia,Brunei,Jun-20,2020,6,141,3
+Asia,Brunei,Mar-20,2020,3,127,1
+Asia,Brunei,May-20,2020,5,141,2
+Asia,Brunei,Oct-20,2020,10,146,3
+Asia,Brunei,Sep-20,2020,9,146,3
+Asia,Cambodia,Apr-20,2020,4,122,0
+Asia,Cambodia,Aug-20,2020,8,274,0
+Asia,Cambodia,Dec-19,2019,12,0,0
+Asia,Cambodia,Feb-20,2020,2,1,0
+Asia,Cambodia,Jan-20,2020,1,1,0
+Asia,Cambodia,Jul-20,2020,7,234,0
+Asia,Cambodia,Jun-20,2020,6,141,0
+Asia,Cambodia,Mar-20,2020,3,109,0
+Asia,Cambodia,May-20,2020,5,125,0
+Asia,Cambodia,Oct-20,2020,10,280,0
+Asia,Cambodia,Sep-20,2020,9,277,0
+Asia,China,Apr-20,2020,4,83944,4637
+Asia,China,Aug-20,2020,8,89895,4722
+Asia,China,Dec-19,2019,12,27,0
+Asia,China,Feb-20,2020,2,79355,2837
+Asia,China,Jan-20,2020,1,9714,213
+Asia,China,Jul-20,2020,7,87489,4659
+Asia,China,Jun-20,2020,6,84780,4641
+Asia,China,Mar-20,2020,3,82241,3309
+Asia,China,May-20,2020,5,84128,4638
+Asia,China,Oct-20,2020,10,90667,4739
+Asia,China,Sep-20,2020,9,90528,4739
+Asia,India,Apr-20,2020,4,33050,1074
+Asia,India,Aug-20,2020,8,3621245,64469
+Asia,India,Dec-19,2019,12,0,0
+Asia,India,Feb-20,2020,2,3,0
+Asia,India,Jan-20,2020,1,1,0
+Asia,India,Jul-20,2020,7,1638870,35747
+Asia,India,Jun-20,2020,6,566840,16893
+Asia,India,Mar-20,2020,3,1251,32
+Asia,India,May-20,2020,5,182143,5164
+Asia,India,Oct-20,2020,10,6757131,104555
+Asia,India,Sep-20,2020,9,6225763,97497
+Asia,Indonesia,Apr-20,2020,4,9771,784
+Asia,Indonesia,Aug-20,2020,8,172053,7343
+Asia,Indonesia,Dec-19,2019,12,0,0
+Asia,Indonesia,Feb-20,2020,2,0,0
+Asia,Indonesia,Jan-20,2020,1,0,0
+Asia,Indonesia,Jul-20,2020,7,106336,5058
+Asia,Indonesia,Jun-20,2020,6,55092,2805
+Asia,Indonesia,Mar-20,2020,3,1414,122
+Asia,Indonesia,May-20,2020,5,25773,1573
+Asia,Indonesia,Oct-20,2020,10,311176,11374
+Asia,Indonesia,Sep-20,2020,9,282724,10601
+Asia,Iran,Apr-20,2020,4,93657,5957
+Asia,Iran,Aug-20,2020,8,373570,21462
+Asia,Iran,Dec-19,2019,12,0,0
+Asia,Iran,Feb-20,2020,2,388,34
+Asia,Iran,Jan-20,2020,1,0,0
+Asia,Iran,Jul-20,2020,7,301530,16569
+Asia,Iran,Jun-20,2020,6,225205,10670
+Asia,Iran,Mar-20,2020,3,41495,2757
+Asia,Iran,May-20,2020,5,148950,7734
+Asia,Iran,Oct-20,2020,10,479825,27419
+Asia,Iran,Sep-20,2020,9,453637,25986
+Asia,Iraq,Apr-20,2020,4,2003,92
+Asia,Iraq,Aug-20,2020,8,231177,6959
+Asia,Iraq,Dec-19,2019,12,0,0
+Asia,Iraq,Feb-20,2020,2,7,0
+Asia,Iraq,Jan-20,2020,1,0,0
+Asia,Iraq,Jul-20,2020,7,121263,4671
+Asia,Iraq,Jun-20,2020,6,47151,1839
+Asia,Iraq,Mar-20,2020,3,630,46
+Asia,Iraq,May-20,2020,5,6179,195
+Asia,Iraq,Oct-20,2020,10,387121,9531
+Asia,Iraq,Sep-20,2020,9,358290,9122
+Asia,Israel,Apr-20,2020,4,15834,215
+Asia,Israel,Aug-20,2020,8,114020,919
+Asia,Israel,Dec-19,2019,12,0,0
+Asia,Israel,Feb-20,2020,2,7,0
+Asia,Israel,Jan-20,2020,1,0,0
+Asia,Israel,Jul-20,2020,7,70379,503
+Asia,Israel,Jun-20,2020,6,24441,319
+Asia,Israel,Mar-20,2020,3,4473,17
+Asia,Israel,May-20,2020,5,17012,284
+Asia,Israel,Oct-20,2020,10,277026,1797
+Asia,Israel,Sep-20,2020,9,236926,1528
+Asia,Japan,Apr-20,2020,4,14088,415
+Asia,Japan,Aug-20,2020,8,67865,1279
+Asia,Japan,Dec-19,2019,12,0,0
+Asia,Japan,Feb-20,2020,2,230,3
+Asia,Japan,Jan-20,2020,1,14,0
+Asia,Japan,Jul-20,2020,7,33774,1005
+Asia,Japan,Jun-20,2020,6,18593,972
+Asia,Japan,Mar-20,2020,3,1953,56
+Asia,Japan,May-20,2020,5,16851,891
+Asia,Japan,Oct-20,2020,10,86543,1605
+Asia,Japan,Sep-20,2020,9,83010,1564
+Asia,Jordan,Apr-20,2020,4,451,8
+Asia,Jordan,Aug-20,2020,8,1966,15
+Asia,Jordan,Jul-20,2020,7,1191,11
+Asia,Jordan,Jun-20,2020,6,1128,9
+Asia,Jordan,Mar-20,2020,3,268,5
+Asia,Jordan,May-20,2020,5,734,9
+Asia,Jordan,Oct-20,2020,10,19001,122
+Asia,Jordan,Sep-20,2020,9,10049,57
+Asia,Kazakhstan,Apr-20,2020,4,3205,25
+Asia,Kazakhstan,Aug-20,2020,8,130673,1781
+Asia,Kazakhstan,Jul-20,2020,7,89078,793
+Asia,Kazakhstan,Jun-20,2020,6,21819,188
+Asia,Kazakhstan,Mar-20,2020,3,325,1
+Asia,Kazakhstan,May-20,2020,5,10858,38
+Asia,Kazakhstan,Oct-20,2020,10,142239,2107
+Asia,Kazakhstan,Sep-20,2020,9,140707,2078
+Asia,Kuwait,Apr-20,2020,4,3740,24
+Asia,Kuwait,Aug-20,2020,8,84636,530
+Asia,Kuwait,Dec-19,2019,12,0,0
+Asia,Kuwait,Feb-20,2020,2,45,0
+Asia,Kuwait,Jan-20,2020,1,0,0
+Asia,Kuwait,Jul-20,2020,7,66529,445
+Asia,Kuwait,Jun-20,2020,6,45524,350
+Asia,Kuwait,Mar-20,2020,3,266,0
+Asia,Kuwait,May-20,2020,5,26192,205
+Asia,Kuwait,Oct-20,2020,10,108268,632
+Asia,Kuwait,Sep-20,2020,9,104568,607
+Asia,Kyrgyz Republic,Apr-20,2020,4,746,8
+Asia,Kyrgyz Republic,Aug-20,2020,8,43898,1058
+Asia,Kyrgyz Republic,Jul-20,2020,7,35805,1378
+Asia,Kyrgyz Republic,Jun-20,2020,6,5296,57
+Asia,Kyrgyz Republic,Mar-20,2020,3,84,0
+Asia,Kyrgyz Republic,May-20,2020,5,1748,16
+Asia,Kyrgyz Republic,Oct-20,2020,10,47799,1066
+Asia,Kyrgyz Republic,Sep-20,2020,9,46669,1064
+Asia,Lao,Apr-20,2020,4,19,0
+Asia,Lao,Aug-20,2020,8,22,0
+Asia,Lao,Jul-20,2020,7,20,0
+Asia,Lao,Jun-20,2020,6,19,0
+Asia,Lao,Mar-20,2020,3,9,0
+Asia,Lao,May-20,2020,5,19,0
+Asia,Lao,Oct-20,2020,10,23,0
+Asia,Lao,Sep-20,2020,9,23,0
+Asia,Lebanon,Apr-20,2020,4,721,24
+Asia,Lebanon,Aug-20,2020,8,16870,160
+Asia,Lebanon,Dec-19,2019,12,0,0
+Asia,Lebanon,Feb-20,2020,2,3,0
+Asia,Lebanon,Jan-20,2020,1,0,0
+Asia,Lebanon,Jul-20,2020,7,4334,57
+Asia,Lebanon,Jun-20,2020,6,1745,34
+Asia,Lebanon,Mar-20,2020,3,446,11
+Asia,Lebanon,May-20,2020,5,1191,26
+Asia,Lebanon,Oct-20,2020,10,46918,424
+Asia,Lebanon,Sep-20,2020,9,38377,361
+Asia,Malaysia,Apr-20,2020,4,5945,100
+Asia,Malaysia,Aug-20,2020,8,9334,126
+Asia,Malaysia,Dec-19,2019,12,0,0
+Asia,Malaysia,Feb-20,2020,2,25,0
+Asia,Malaysia,Jan-20,2020,1,8,0
+Asia,Malaysia,Jul-20,2020,7,8964,124
+Asia,Malaysia,Jun-20,2020,6,8637,121
+Asia,Malaysia,Mar-20,2020,3,2626,37
+Asia,Malaysia,May-20,2020,5,7762,115
+Asia,Malaysia,Oct-20,2020,10,13504,141
+Asia,Malaysia,Sep-20,2020,9,11135,134
+Asia,Maldives,Apr-20,2020,4,277,0
+Asia,Maldives,Aug-20,2020,8,7667,28
+Asia,Maldives,Jul-20,2020,7,3719,16
+Asia,Maldives,Jun-20,2020,6,2336,8
+Asia,Maldives,Mar-20,2020,3,17,0
+Asia,Maldives,May-20,2020,5,1672,5
+Asia,Maldives,Oct-20,2020,10,10621,34
+Asia,Maldives,Sep-20,2020,9,10194,34
+Asia,Mongolia,Apr-20,2020,4,38,0
+Asia,Mongolia,Aug-20,2020,8,301,0
+Asia,Mongolia,Jul-20,2020,7,291,0
+Asia,Mongolia,Jun-20,2020,6,220,0
+Asia,Mongolia,Mar-20,2020,3,12,0
+Asia,Mongolia,May-20,2020,5,179,0
+Asia,Mongolia,Oct-20,2020,10,315,0
+Asia,Mongolia,Sep-20,2020,9,313,0
+Asia,Myanmar,Apr-20,2020,4,150,6
+Asia,Myanmar,Aug-20,2020,8,787,6
+Asia,Myanmar,Jul-20,2020,7,353,6
+Asia,Myanmar,Jun-20,2020,6,299,6
+Asia,Myanmar,Mar-20,2020,3,14,0
+Asia,Myanmar,May-20,2020,5,224,6
+Asia,Myanmar,Oct-20,2020,10,20033,471
+Asia,Myanmar,Sep-20,2020,9,12425,284
+Asia,Nepal,Apr-20,2020,4,57,0
+Asia,Nepal,Aug-20,2020,8,38561,221
+Asia,Nepal,Dec-19,2019,12,0,0
+Asia,Nepal,Feb-20,2020,2,1,0
+Asia,Nepal,Jan-20,2020,1,1,0
+Asia,Nepal,Jul-20,2020,7,19547,52
+Asia,Nepal,Jun-20,2020,6,13248,29
+Asia,Nepal,Mar-20,2020,3,5,0
+Asia,Nepal,May-20,2020,5,1401,6
+Asia,Nepal,Oct-20,2020,10,90814,563
+Asia,Nepal,Sep-20,2020,9,76258,491
+Asia,Oman,Apr-20,2020,4,2274,10
+Asia,Oman,Aug-20,2020,8,85544,677
+Asia,Oman,Dec-19,2019,12,0,0
+Asia,Oman,Feb-20,2020,2,6,0
+Asia,Oman,Jan-20,2020,1,0,0
+Asia,Oman,Jul-20,2020,7,79159,421
+Asia,Oman,Jun-20,2020,6,39060,169
+Asia,Oman,Mar-20,2020,3,179,0
+Asia,Oman,May-20,2020,5,10423,42
+Asia,Oman,Oct-20,2020,10,102648,990
+Asia,Oman,Sep-20,2020,9,98585,935
+Asia,Pakistan,Apr-20,2020,4,15759,346
+Asia,Pakistan,Aug-20,2020,8,295849,6294
+Asia,Pakistan,Dec-19,2019,12,0,0
+Asia,Pakistan,Feb-20,2020,2,2,0
+Asia,Pakistan,Jan-20,2020,1,0,0
+Asia,Pakistan,Jul-20,2020,7,278305,5951
+Asia,Pakistan,Jun-20,2020,6,209337,4304
+Asia,Pakistan,Mar-20,2020,3,1625,18
+Asia,Pakistan,May-20,2020,5,69496,1483
+Asia,Pakistan,Oct-20,2020,10,316351,6535
+Asia,Pakistan,Sep-20,2020,9,312263,6479
+Asia,Palestine,Apr-20,2020,4,507,2
+Asia,Palestine,Aug-20,2020,8,29063,166
+Asia,Palestine,Jul-20,2020,7,14838,84
+Asia,Palestine,Jun-20,2020,6,2443,8
+Asia,Palestine,Mar-20,2020,3,115,1
+Asia,Palestine,May-20,2020,5,626,5
+Asia,Palestine,Oct-20,2020,10,53429,412
+Asia,Palestine,Sep-20,2020,9,50115,360
+Asia,Philippines,Apr-20,2020,4,8212,558
+Asia,Philippines,Aug-20,2020,8,217396,3520
+Asia,Philippines,Dec-19,2019,12,0,0
+Asia,Philippines,Feb-20,2020,2,3,1
+Asia,Philippines,Jan-20,2020,1,1,0
+Asia,Philippines,Jul-20,2020,7,89374,1983
+Asia,Philippines,Jun-20,2020,6,36438,1255
+Asia,Philippines,Mar-20,2020,3,2084,88
+Asia,Philippines,May-20,2020,5,17224,950
+Asia,Philippines,Oct-20,2020,10,326833,5865
+Asia,Philippines,Sep-20,2020,9,309303,5448
+Asia,Qatar,Apr-20,2020,4,12564,10
+Asia,Qatar,Aug-20,2020,8,118575,197
+Asia,Qatar,Dec-19,2019,12,0,0
+Asia,Qatar,Feb-20,2020,2,0,0
+Asia,Qatar,Jan-20,2020,1,0,0
+Asia,Qatar,Jul-20,2020,7,110460,171
+Asia,Qatar,Jun-20,2020,6,95106,113
+Asia,Qatar,Mar-20,2020,3,693,1
+Asia,Qatar,May-20,2020,5,55262,36
+Asia,Qatar,Oct-20,2020,10,126943,216
+Asia,Qatar,Sep-20,2020,9,125533,214
+Asia,Russia,Apr-20,2020,4,99399,972
+Asia,Russia,Aug-20,2020,8,990326,17093
+Asia,Russia,Dec-19,2019,12,0,0
+Asia,Russia,Feb-20,2020,2,2,0
+Asia,Russia,Jan-20,2020,1,0,0
+Asia,Russia,Jul-20,2020,7,834499,13802
+Asia,Russia,Jun-20,2020,6,641156,9166
+Asia,Russia,Mar-20,2020,3,1836,10
+Asia,Russia,May-20,2020,5,396575,4555
+Asia,Russia,Oct-20,2020,10,1237504,21663
+Asia,Russia,Sep-20,2020,9,1167805,20545
+Asia,Saudi Arabia,Apr-20,2020,4,21402,157
+Asia,Saudi Arabia,Aug-20,2020,8,314821,3870
+Asia,Saudi Arabia,Jul-20,2020,7,274219,2866
+Asia,Saudi Arabia,Jun-20,2020,6,186436,1599
+Asia,Saudi Arabia,Mar-20,2020,3,1453,8
+Asia,Saudi Arabia,May-20,2020,5,83384,480
+Asia,Saudi Arabia,Oct-20,2020,10,337243,4923
+Asia,Saudi Arabia,Sep-20,2020,9,334187,4739
+Asia,Singapore,Apr-20,2020,4,15641,14
+Asia,Singapore,Aug-20,2020,8,56771,27
+Asia,Singapore,Dec-19,2019,12,0,0
+Asia,Singapore,Feb-20,2020,2,98,0
+Asia,Singapore,Jan-20,2020,1,13,0
+Asia,Singapore,Jul-20,2020,7,51809,27
+Asia,Singapore,Jun-20,2020,6,43661,26
+Asia,Singapore,Mar-20,2020,3,844,3
+Asia,Singapore,May-20,2020,5,34366,23
+Asia,Singapore,Oct-20,2020,10,57830,27
+Asia,Singapore,Sep-20,2020,9,57742,27
+Asia,South Korea,Apr-20,2020,4,10765,247
+Asia,South Korea,Aug-20,2020,8,19947,324
+Asia,South Korea,Dec-19,2019,12,0,0
+Asia,South Korea,Feb-20,2020,2,2931,16
+Asia,South Korea,Jan-20,2020,1,7,0
+Asia,South Korea,Jul-20,2020,7,14305,301
+Asia,South Korea,Jun-20,2020,6,12800,282
+Asia,South Korea,Mar-20,2020,3,9786,163
+Asia,South Korea,May-20,2020,5,11468,270
+Asia,South Korea,Oct-20,2020,10,24353,425
+Asia,South Korea,Sep-20,2020,9,23812,413
+Asia,Sri Lanka,Apr-20,2020,4,649,7
+Asia,Sri Lanka,Aug-20,2020,8,3012,12
+Asia,Sri Lanka,Dec-19,2019,12,0,0
+Asia,Sri Lanka,Feb-20,2020,2,1,0
+Asia,Sri Lanka,Jan-20,2020,1,1,0
+Asia,Sri Lanka,Jul-20,2020,7,2814,11
+Asia,Sri Lanka,Jun-20,2020,6,2042,11
+Asia,Sri Lanka,Mar-20,2020,3,120,1
+Asia,Sri Lanka,May-20,2020,5,1620,10
+Asia,Sri Lanka,Oct-20,2020,10,4252,13
+Asia,Sri Lanka,Sep-20,2020,9,3374,13
+Asia,Syria,Apr-20,2020,4,43,3
+Asia,Syria,Aug-20,2020,8,2703,109
+Asia,Syria,Jul-20,2020,7,738,41
+Asia,Syria,Jun-20,2020,6,269,9
+Asia,Syria,Mar-20,2020,3,10,2
+Asia,Syria,May-20,2020,5,122,4
+Asia,Syria,Oct-20,2020,10,4457,209
+Asia,Syria,Sep-20,2020,9,4148,197
+Asia,Tajikistan,Aug-20,2020,8,8550,68
+Asia,Tajikistan,Jul-20,2020,7,7366,60
+Asia,Tajikistan,Jun-20,2020,6,5900,52
+Asia,Tajikistan,May-20,2020,5,3807,47
+Asia,Tajikistan,Oct-20,2020,10,10014,78
+Asia,Tajikistan,Sep-20,2020,9,9726,75
+Asia,Thailand,Apr-20,2020,4,2954,54
+Asia,Thailand,Aug-20,2020,8,3412,58
+Asia,Thailand,Dec-19,2019,12,0,0
+Asia,Thailand,Feb-20,2020,2,42,0
+Asia,Thailand,Jan-20,2020,1,14,0
+Asia,Thailand,Jul-20,2020,7,3310,58
+Asia,Thailand,Jun-20,2020,6,3171,58
+Asia,Thailand,Mar-20,2020,3,1651,10
+Asia,Thailand,May-20,2020,5,3081,57
+Asia,Thailand,Oct-20,2020,10,3615,59
+Asia,Thailand,Sep-20,2020,9,3564,59
+Asia,Turkey,Apr-20,2020,4,117589,3081
+Asia,Turkey,Aug-20,2020,8,268546,6326
+Asia,Turkey,Jul-20,2020,7,229891,5674
+Asia,Turkey,Jun-20,2020,6,198613,5115
+Asia,Turkey,Mar-20,2020,3,10827,168
+Asia,Turkey,May-20,2020,5,163103,4515
+Asia,Turkey,Oct-20,2020,10,327557,8553
+Asia,Turkey,Sep-20,2020,9,317272,8130
+Asia,United Arab Emirates,Apr-20,2020,4,11929,98
+Asia,United Arab Emirates,Aug-20,2020,8,69690,382
+Asia,United Arab Emirates,Dec-19,2019,12,0,0
+Asia,United Arab Emirates,Feb-20,2020,2,21,0
+Asia,United Arab Emirates,Jan-20,2020,1,4,0
+Asia,United Arab Emirates,Jul-20,2020,7,60506,351
+Asia,United Arab Emirates,Jun-20,2020,6,48246,314
+Asia,United Arab Emirates,Mar-20,2020,3,611,5
+Asia,United Arab Emirates,May-20,2020,5,33896,262
+Asia,United Arab Emirates,Oct-20,2020,10,100794,435
+Asia,United Arab Emirates,Sep-20,2020,9,93090,416
+Asia,Uzbekistan,Apr-20,2020,4,2002,9
+Asia,Uzbekistan,Aug-20,2020,8,41651,317
+Asia,Uzbekistan,Jul-20,2020,7,23558,137
+Asia,Uzbekistan,Jun-20,2020,6,8298,24
+Asia,Uzbekistan,Mar-20,2020,3,149,2
+Asia,Uzbekistan,May-20,2020,5,3554,14
+Asia,Uzbekistan,Oct-20,2020,10,59343,489
+Asia,Uzbekistan,Sep-20,2020,9,56519,468
+Asia,Vietnam,Apr-20,2020,4,270,0
+Asia,Vietnam,Aug-20,2020,8,1040,32
+Asia,Vietnam,Dec-19,2019,12,0,0
+Asia,Vietnam,Feb-20,2020,2,16,0
+Asia,Vietnam,Jan-20,2020,1,5,0
+Asia,Vietnam,Jul-20,2020,7,509,0
+Asia,Vietnam,Jun-20,2020,6,355,0
+Asia,Vietnam,Mar-20,2020,3,206,0
+Asia,Vietnam,May-20,2020,5,327,0
+Asia,Vietnam,Oct-20,2020,10,1098,35
+Asia,Vietnam,Sep-20,2020,9,1094,35
+Asia,Yemen,Apr-20,2020,4,6,0
+Asia,Yemen,Aug-20,2020,8,1953,564
+Asia,Yemen,Jul-20,2020,7,1726,487
+Asia,Yemen,Jun-20,2020,6,1128,304
+Asia,Yemen,May-20,2020,5,310,77
+Asia,Yemen,Oct-20,2020,10,2045,593
+Asia,Yemen,Sep-20,2020,9,2035,588
+Europe,Albania,Apr-20,2020,4,766,31
+Europe,Albania,Aug-20,2020,8,9380,280
+Europe,Albania,Jul-20,2020,7,5197,154
+Europe,Albania,Jun-20,2020,6,2466,58
+Europe,Albania,Mar-20,2020,3,223,12
+Europe,Albania,May-20,2020,5,1122,33
+Europe,Albania,Oct-20,2020,10,14568,403
+Europe,Albania,Sep-20,2020,9,13518,384
+Europe,Andorra,Apr-20,2020,4,743,42
+Europe,Andorra,Aug-20,2020,8,1124,53
+Europe,Andorra,Jul-20,2020,7,922,52
+Europe,Andorra,Jun-20,2020,6,855,52
+Europe,Andorra,Mar-20,2020,3,370,8
+Europe,Andorra,May-20,2020,5,764,51
+Europe,Andorra,Oct-20,2020,10,2370,53
+Europe,Andorra,Sep-20,2020,9,1966,53
+Europe,Armenia,Apr-20,2020,4,2066,32
+Europe,Armenia,Aug-20,2020,8,43750,877
+Europe,Armenia,Dec-19,2019,12,0,0
+Europe,Armenia,Feb-20,2020,2,0,0
+Europe,Armenia,Jan-20,2020,1,0,0
+Europe,Armenia,Jul-20,2020,7,38550,738
+Europe,Armenia,Jun-20,2020,6,25542,443
+Europe,Armenia,Mar-20,2020,3,532,3
+Europe,Armenia,May-20,2020,5,9282,131
+Europe,Armenia,Oct-20,2020,10,53083,990
+Europe,Armenia,Sep-20,2020,9,49901,958
+Europe,Austria,Apr-20,2020,4,15364,580
+Europe,Austria,Aug-20,2020,8,27218,733
+Europe,Austria,Dec-19,2019,12,0,0
+Europe,Austria,Feb-20,2020,2,7,0
+Europe,Austria,Jan-20,2020,1,0,0
+Europe,Austria,Jul-20,2020,7,21009,718
+Europe,Austria,Jun-20,2020,6,17666,703
+Europe,Austria,Mar-20,2020,3,9618,108
+Europe,Austria,May-20,2020,5,16638,668
+Europe,Austria,Oct-20,2020,10,50435,840
+Europe,Austria,Sep-20,2020,9,44607,796
+Europe,Azerbaijan,Apr-20,2020,4,1766,23
+Europe,Azerbaijan,Aug-20,2020,8,36309,531
+Europe,Azerbaijan,Dec-19,2019,12,0,0
+Europe,Azerbaijan,Feb-20,2020,2,1,0
+Europe,Azerbaijan,Jan-20,2020,1,0,0
+Europe,Azerbaijan,Jul-20,2020,7,31560,441
+Europe,Azerbaijan,Jun-20,2020,6,16968,206
+Europe,Azerbaijan,Mar-20,2020,3,273,4
+Europe,Azerbaijan,May-20,2020,5,5246,61
+Europe,Azerbaijan,Oct-20,2020,10,40931,600
+Europe,Azerbaijan,Sep-20,2020,9,40119,590
+Europe,Belarus,Apr-20,2020,4,13181,84
+Europe,Belarus,Aug-20,2020,8,71687,676
+Europe,Belarus,Dec-19,2019,12,0,0
+Europe,Belarus,Feb-20,2020,2,1,0
+Europe,Belarus,Jan-20,2020,1,0,0
+Europe,Belarus,Jul-20,2020,7,67665,553
+Europe,Belarus,Jun-20,2020,6,61790,387
+Europe,Belarus,Mar-20,2020,3,105,0
+Europe,Belarus,May-20,2020,5,41658,229
+Europe,Belarus,Oct-20,2020,10,81090,868
+Europe,Belarus,Sep-20,2020,9,78260,828
+Europe,Belgium,Apr-20,2020,4,49941,7773
+Europe,Belgium,Aug-20,2020,8,85399,9892
+Europe,Belgium,Dec-19,2019,12,0,0
+Europe,Belgium,Feb-20,2020,2,1,0
+Europe,Belgium,Jan-20,2020,1,0,0
+Europe,Belgium,Jul-20,2020,7,69592,9706
+Europe,Belgium,Jun-20,2020,6,61886,9627
+Europe,Belgium,Mar-20,2020,3,15297,1168
+Europe,Belgium,May-20,2020,5,58917,9349
+Europe,Belgium,Oct-20,2020,10,134197,10092
+Europe,Belgium,Sep-20,2020,9,122163,10016
+Europe,Bosnia and Herzegovina,Apr-20,2020,4,1689,64
+Europe,Bosnia and Herzegovina,Aug-20,2020,8,19789,592
+Europe,Bosnia and Herzegovina,Jul-20,2020,7,11444,328
+Europe,Bosnia and Herzegovina,Jun-20,2020,6,4343,183
+Europe,Bosnia and Herzegovina,Mar-20,2020,3,353,8
+Europe,Bosnia and Herzegovina,May-20,2020,5,2493,152
+Europe,Bosnia and Herzegovina,Oct-20,2020,10,28710,903
+Europe,Bosnia and Herzegovina,Sep-20,2020,9,27222,836
+Europe,Bulgaria,Apr-20,2020,4,1447,64
+Europe,Bulgaria,Aug-20,2020,8,16190,613
+Europe,Bulgaria,Jul-20,2020,7,11420,374
+Europe,Bulgaria,Jun-20,2020,6,4831,223
+Europe,Bulgaria,Mar-20,2020,3,359,8
+Europe,Bulgaria,May-20,2020,5,2513,140
+Europe,Bulgaria,Oct-20,2020,10,22306,862
+Europe,Bulgaria,Sep-20,2020,9,20547,814
+Europe,Croatia,Apr-20,2020,4,2062,67
+Europe,Croatia,Aug-20,2020,8,10123,184
+Europe,Croatia,Dec-19,2019,12,0,0
+Europe,Croatia,Feb-20,2020,2,5,0
+Europe,Croatia,Jan-20,2020,1,0,0
+Europe,Croatia,Jul-20,2020,7,5071,144
+Europe,Croatia,Jun-20,2020,6,2725,107
+Europe,Croatia,Mar-20,2020,3,790,6
+Europe,Croatia,May-20,2020,5,2246,103
+Europe,Croatia,Oct-20,2020,10,18084,304
+Europe,Croatia,Sep-20,2020,9,16380,275
+Europe,Cyprus,Apr-20,2020,4,843,15
+Europe,Cyprus,Aug-20,2020,8,1487,21
+Europe,Cyprus,Jul-20,2020,7,1084,19
+Europe,Cyprus,Jun-20,2020,6,996,19
+Europe,Cyprus,Mar-20,2020,3,230,7
+Europe,Cyprus,May-20,2020,5,943,17
+Europe,Cyprus,Oct-20,2020,10,1876,23
+Europe,Cyprus,Sep-20,2020,9,1743,22
+Europe,Czech Republic,Apr-20,2020,4,7579,227
+Europe,Czech Republic,Aug-20,2020,8,24367,423
+Europe,Czech Republic,Dec-19,2019,12,0,0
+Europe,Czech Republic,Feb-20,2020,2,0,0
+Europe,Czech Republic,Jan-20,2020,1,0,0
+Europe,Czech Republic,Jul-20,2020,7,16342,379
+Europe,Czech Republic,Jun-20,2020,6,11805,348
+Europe,Czech Republic,Mar-20,2020,3,3002,24
+Europe,Czech Republic,May-20,2020,5,9230,319
+Europe,Czech Republic,Oct-20,2020,10,90022,794
+Europe,Czech Republic,Sep-20,2020,9,67843,636
+Europe,Denmark,Apr-20,2020,4,9008,443
+Europe,Denmark,Aug-20,2020,8,16700,624
+Europe,Denmark,Dec-19,2019,12,0,0
+Europe,Denmark,Feb-20,2020,2,2,0
+Europe,Denmark,Jan-20,2020,1,0,0
+Europe,Denmark,Jul-20,2020,7,13725,615
+Europe,Denmark,Jun-20,2020,6,12751,605
+Europe,Denmark,Mar-20,2020,3,2577,77
+Europe,Denmark,May-20,2020,5,11633,571
+Europe,Denmark,Oct-20,2020,10,30379,663
+Europe,Denmark,Sep-20,2020,9,27464,650
+Europe,Estonia,Apr-20,2020,4,1666,50
+Europe,Estonia,Aug-20,2020,8,2373,64
+Europe,Estonia,Dec-19,2019,12,0,0
+Europe,Estonia,Feb-20,2020,2,1,0
+Europe,Estonia,Jan-20,2020,1,0,0
+Europe,Estonia,Jul-20,2020,7,2051,63
+Europe,Estonia,Jun-20,2020,6,1987,63
+Europe,Estonia,Mar-20,2020,3,715,3
+Europe,Estonia,May-20,2020,5,1865,63
+Europe,Estonia,Oct-20,2020,10,3659,67
+Europe,Estonia,Sep-20,2020,9,3315,64
+Europe,Finland,Apr-20,2020,4,4906,206
+Europe,Finland,Aug-20,2020,8,8077,335
+Europe,Finland,Dec-19,2019,12,0,0
+Europe,Finland,Feb-20,2020,2,3,0
+Europe,Finland,Jan-20,2020,1,1,0
+Europe,Finland,Jul-20,2020,7,7423,329
+Europe,Finland,Jun-20,2020,6,7209,328
+Europe,Finland,Mar-20,2020,3,1313,13
+Europe,Finland,May-20,2020,5,6826,316
+Europe,Finland,Oct-20,2020,10,10929,346
+Europe,Finland,Sep-20,2020,9,9892,343
+Europe,France,Apr-20,2020,4,128442,24087
+Europe,France,Aug-20,2020,8,277943,30606
+Europe,France,Dec-19,2019,12,0,0
+Europe,France,Feb-20,2020,2,57,2
+Europe,France,Jan-20,2020,1,6,0
+Europe,France,Jul-20,2020,7,186573,30254
+Europe,France,Jun-20,2020,6,164260,29813
+Europe,France,Mar-20,2020,3,44550,3024
+Europe,France,May-20,2020,5,151496,28771
+Europe,France,Oct-20,2020,10,634763,32365
+Europe,France,Sep-20,2020,9,550690,31893
+Europe,Georgia,Apr-20,2020,4,517,6
+Europe,Georgia,Aug-20,2020,8,1487,19
+Europe,Georgia,Dec-19,2019,12,0,0
+Europe,Georgia,Feb-20,2020,2,2,0
+Europe,Georgia,Jan-20,2020,1,0,0
+Europe,Georgia,Jul-20,2020,7,1160,17
+Europe,Georgia,Jun-20,2020,6,928,15
+Europe,Georgia,Mar-20,2020,3,98,0
+Europe,Georgia,May-20,2020,5,757,12
+Europe,Georgia,Oct-20,2020,10,9245,58
+Europe,Georgia,Sep-20,2020,9,5866,33
+Europe,Germany,Apr-20,2020,4,159119,6288
+Europe,Germany,Aug-20,2020,8,242381,9298
+Europe,Germany,Dec-19,2019,12,0,0
+Europe,Germany,Feb-20,2020,2,57,0
+Europe,Germany,Jan-20,2020,1,5,0
+Europe,Germany,Jul-20,2020,7,208698,9141
+Europe,Germany,Jun-20,2020,6,194259,8973
+Europe,Germany,Mar-20,2020,3,61913,583
+Europe,Germany,May-20,2020,5,181482,8500
+Europe,Germany,Oct-20,2020,10,306086,9562
+Europe,Germany,Sep-20,2020,9,289219,9488
+Europe,Greece,Apr-20,2020,4,2576,139
+Europe,Greece,Aug-20,2020,8,10134,262
+Europe,Greece,Dec-19,2019,12,0,0
+Europe,Greece,Feb-20,2020,2,4,0
+Europe,Greece,Jan-20,2020,1,0,0
+Europe,Greece,Jul-20,2020,7,4401,203
+Europe,Greece,Jun-20,2020,6,3390,191
+Europe,Greece,Mar-20,2020,3,1212,43
+Europe,Greece,May-20,2020,5,2915,175
+Europe,Greece,Oct-20,2020,10,20541,420
+Europe,Greece,Sep-20,2020,9,18123,388
+Europe,Hungary,Apr-20,2020,4,2775,312
+Europe,Hungary,Aug-20,2020,8,5961,614
+Europe,Hungary,Jul-20,2020,7,4505,596
+Europe,Hungary,Jun-20,2020,6,4145,585
+Europe,Hungary,Mar-20,2020,3,492,16
+Europe,Hungary,May-20,2020,5,3867,524
+Europe,Hungary,Oct-20,2020,10,33114,877
+Europe,Hungary,Sep-20,2020,9,26461,765
+Europe,Iceland,Apr-20,2020,4,1797,10
+Europe,Iceland,Aug-20,2020,8,2105,10
+Europe,Iceland,Dec-19,2019,12,0,0
+Europe,Iceland,Feb-20,2020,2,1,0
+Europe,Iceland,Jan-20,2020,1,0,0
+Europe,Iceland,Jul-20,2020,7,1872,10
+Europe,Iceland,Jun-20,2020,6,1822,10
+Europe,Iceland,Mar-20,2020,3,1086,2
+Europe,Iceland,May-20,2020,5,1806,10
+Europe,Iceland,Oct-20,2020,10,3081,10
+Europe,Iceland,Sep-20,2020,9,2695,10
+Europe,Ireland,Apr-20,2020,4,20253,1190
+Europe,Ireland,Aug-20,2020,8,28760,1777
+Europe,Ireland,Dec-19,2019,12,0,0
+Europe,Ireland,Feb-20,2020,2,0,0
+Europe,Ireland,Jan-20,2020,1,0,0
+Europe,Ireland,Jul-20,2020,7,26027,1763
+Europe,Ireland,Jun-20,2020,6,25462,1735
+Europe,Ireland,Mar-20,2020,3,2910,54
+Europe,Ireland,May-20,2020,5,24929,1650
+Europe,Ireland,Oct-20,2020,10,38975,1811
+Europe,Ireland,Sep-20,2020,9,35740,1803
+Europe,Italy,Apr-20,2020,4,203591,27682
+Europe,Italy,Aug-20,2020,8,268218,35477
+Europe,Italy,Dec-19,2019,12,0,0
+Europe,Italy,Feb-20,2020,2,888,21
+Europe,Italy,Jan-20,2020,1,3,0
+Europe,Italy,Jul-20,2020,7,247158,35132
+Europe,Italy,Jun-20,2020,6,240436,34744
+Europe,Italy,Mar-20,2020,3,101739,11591
+Europe,Italy,May-20,2020,5,232664,33340
+Europe,Italy,Oct-20,2020,10,330263,36030
+Europe,Italy,Sep-20,2020,9,313011,35875
+Europe,Latvia,Apr-20,2020,4,849,15
+Europe,Latvia,Aug-20,2020,8,1393,34
+Europe,Latvia,Jul-20,2020,7,1228,31
+Europe,Latvia,Jun-20,2020,6,1117,30
+Europe,Latvia,Mar-20,2020,3,376,0
+Europe,Latvia,May-20,2020,5,1065,24
+Europe,Latvia,Oct-20,2020,10,2194,39
+Europe,Latvia,Sep-20,2020,9,1729,37
+Europe,Liechtenstein,Apr-20,2020,4,83,1
+Europe,Liechtenstein,Aug-20,2020,8,108,1
+Europe,Liechtenstein,Jul-20,2020,7,89,1
+Europe,Liechtenstein,Jun-20,2020,6,83,1
+Europe,Liechtenstein,Mar-20,2020,3,64,0
+Europe,Liechtenstein,May-20,2020,5,83,1
+Europe,Liechtenstein,Oct-20,2020,10,130,1
+Europe,Liechtenstein,Sep-20,2020,9,120,1
+Europe,Lithuania,Apr-20,2020,4,1375,45
+Europe,Lithuania,Aug-20,2020,8,2874,86
+Europe,Lithuania,Dec-19,2019,12,0,0
+Europe,Lithuania,Feb-20,2020,2,1,0
+Europe,Lithuania,Jan-20,2020,1,0,0
+Europe,Lithuania,Jul-20,2020,7,2062,80
+Europe,Lithuania,Jun-20,2020,6,1816,78
+Europe,Lithuania,Mar-20,2020,3,484,7
+Europe,Lithuania,May-20,2020,5,1670,70
+Europe,Lithuania,Oct-20,2020,10,5366,99
+Europe,Lithuania,Sep-20,2020,9,4578,92
+Europe,Luxembourg,Apr-20,2020,4,3769,89
+Europe,Luxembourg,Aug-20,2020,8,6625,124
+Europe,Luxembourg,Dec-19,2019,12,0,0
+Europe,Luxembourg,Feb-20,2020,2,0,0
+Europe,Luxembourg,Jan-20,2020,1,0,0
+Europe,Luxembourg,Jul-20,2020,7,6616,114
+Europe,Luxembourg,Jun-20,2020,6,4256,110
+Europe,Luxembourg,Mar-20,2020,3,1988,22
+Europe,Luxembourg,May-20,2020,5,4016,110
+Europe,Luxembourg,Oct-20,2020,10,8979,128
+Europe,Luxembourg,Sep-20,2020,9,8431,124
+Europe,Malta,Apr-20,2020,4,462,4
+Europe,Malta,Aug-20,2020,8,1864,11
+Europe,Malta,Jul-20,2020,7,727,9
+Europe,Malta,Jun-20,2020,6,669,9
+Europe,Malta,Mar-20,2020,3,156,0
+Europe,Malta,May-20,2020,5,617,9
+Europe,Malta,Oct-20,2020,10,3374,40
+Europe,Malta,Sep-20,2020,9,3035,34
+Europe,Moldova,Apr-20,2020,4,3771,111
+Europe,Moldova,Aug-20,2020,8,36700,992
+Europe,Moldova,Jul-20,2020,7,23947,771
+Europe,Moldova,Jun-20,2020,6,16357,536
+Europe,Moldova,Mar-20,2020,3,298,2
+Europe,Moldova,May-20,2020,5,8098,291
+Europe,Moldova,Oct-20,2020,10,57732,1389
+Europe,Moldova,Sep-20,2020,9,52029,1310
+Europe,Monaco,Apr-20,2020,4,66,1
+Europe,Monaco,Aug-20,2020,8,131,1
+Europe,Monaco,Dec-19,2019,12,0,0
+Europe,Monaco,Feb-20,2020,2,1,0
+Europe,Monaco,Jan-20,2020,1,0,0
+Europe,Monaco,Jul-20,2020,7,84,1
+Europe,Monaco,Jun-20,2020,6,70,1
+Europe,Monaco,Mar-20,2020,3,36,0
+Europe,Monaco,May-20,2020,5,67,1
+Europe,Monaco,Oct-20,2020,10,224,1
+Europe,Monaco,Sep-20,2020,9,214,1
+Europe,Montenegro,Apr-20,2020,4,322,7
+Europe,Montenegro,Aug-20,2020,8,4790,98
+Europe,Montenegro,Jul-20,2020,7,3073,48
+Europe,Montenegro,Jun-20,2020,6,501,11
+Europe,Montenegro,Mar-20,2020,3,91,1
+Europe,Montenegro,May-20,2020,5,324,9
+Europe,Montenegro,Oct-20,2020,10,12584,188
+Europe,Montenegro,Sep-20,2020,9,10575,164
+Europe,Netherlands,Apr-20,2020,4,38802,4711
+Europe,Netherlands,Aug-20,2020,8,70071,6215
+Europe,Netherlands,Dec-19,2019,12,0,0
+Europe,Netherlands,Feb-20,2020,2,2,0
+Europe,Netherlands,Jan-20,2020,1,0,0
+Europe,Netherlands,Jul-20,2020,7,53963,6140
+Europe,Netherlands,Jun-20,2020,6,50223,6107
+Europe,Netherlands,Mar-20,2020,3,11750,864
+Europe,Netherlands,May-20,2020,5,46257,5951
+Europe,Netherlands,Oct-20,2020,10,144838,6473
+Europe,Netherlands,Sep-20,2020,9,117420,6384
+Europe,Norway,Apr-20,2020,4,7667,202
+Europe,Norway,Aug-20,2020,8,10543,264
+Europe,Norway,Dec-19,2019,12,0,0
+Europe,Norway,Feb-20,2020,2,6,0
+Europe,Norway,Jan-20,2020,1,0,0
+Europe,Norway,Jul-20,2020,7,9172,255
+Europe,Norway,Jun-20,2020,6,8855,249
+Europe,Norway,Mar-20,2020,3,4226,26
+Europe,Norway,May-20,2020,5,8411,236
+Europe,Norway,Oct-20,2020,10,14604,275
+Europe,Norway,Sep-20,2020,9,13788,274
+Europe,Poland,Apr-20,2020,4,12640,624
+Europe,Poland,Aug-20,2020,8,66870,2033
+Europe,Poland,Jul-20,2020,7,45031,1709
+Europe,Poland,Jun-20,2020,6,34154,1444
+Europe,Poland,Mar-20,2020,3,2055,31
+Europe,Poland,May-20,2020,5,23571,1061
+Europe,Poland,Oct-20,2020,10,104316,2717
+Europe,Poland,Sep-20,2020,9,89962,2483
+Europe,Portugal,Apr-20,2020,4,24692,989
+Europe,Portugal,Aug-20,2020,8,57768,1819
+Europe,Portugal,Jul-20,2020,7,50868,1727
+Europe,Portugal,Jun-20,2020,6,41912,1568
+Europe,Portugal,Mar-20,2020,3,6408,140
+Europe,Portugal,May-20,2020,5,32203,1396
+Europe,Portugal,Oct-20,2020,10,80312,2032
+Europe,Portugal,Sep-20,2020,9,74717,1963
+Europe,Romania,Apr-20,2020,4,11978,675
+Europe,Romania,Aug-20,2020,8,86785,3578
+Europe,Romania,Dec-19,2019,12,0,0
+Europe,Romania,Feb-20,2020,2,3,0
+Europe,Romania,Jan-20,2020,1,0,0
+Europe,Romania,Jul-20,2020,7,49591,2304
+Europe,Romania,Jun-20,2020,6,26582,1634
+Europe,Romania,Mar-20,2020,3,1952,44
+Europe,Romania,May-20,2020,5,19133,1253
+Europe,Romania,Oct-20,2020,10,139612,5121
+Europe,Romania,Sep-20,2020,9,125414,4792
+Europe,San Marino,Apr-20,2020,4,563,41
+Europe,San Marino,Aug-20,2020,8,710,42
+Europe,San Marino,Dec-19,2019,12,0,0
+Europe,San Marino,Feb-20,2020,2,1,0
+Europe,San Marino,Jan-20,2020,1,0,0
+Europe,San Marino,Jul-20,2020,7,699,42
+Europe,San Marino,Jun-20,2020,6,698,42
+Europe,San Marino,Mar-20,2020,3,229,25
+Europe,San Marino,May-20,2020,5,671,42
+Europe,San Marino,Oct-20,2020,10,751,42
+Europe,San Marino,Sep-20,2020,9,727,42
+Europe,Serbia,Apr-20,2020,4,8724,173
+Europe,Serbia,Aug-20,2020,8,31365,711
+Europe,Serbia,Jul-20,2020,7,25213,565
+Europe,Serbia,Jun-20,2020,6,14288,274
+Europe,Serbia,Mar-20,2020,3,785,16
+Europe,Serbia,May-20,2020,5,11381,242
+Europe,Serbia,Oct-20,2020,10,34072,757
+Europe,Serbia,Sep-20,2020,9,33479,749
+Europe,Slovak Republic,Apr-20,2020,4,1391,22
+Europe,Slovak Republic,Aug-20,2020,8,3876,33
+Europe,Slovak Republic,Jul-20,2020,7,2265,28
+Europe,Slovak Republic,Jun-20,2020,6,1665,28
+Europe,Slovak Republic,Mar-20,2020,3,336,0
+Europe,Slovak Republic,May-20,2020,5,1521,28
+Europe,Slovak Republic,Oct-20,2020,10,13812,55
+Europe,Slovak Republic,Sep-20,2020,9,9574,45
+Europe,Slovenia,Apr-20,2020,4,1418,89
+Europe,Slovenia,Aug-20,2020,8,2865,128
+Europe,Slovenia,Jul-20,2020,7,2139,117
+Europe,Slovenia,Jun-20,2020,6,1585,111
+Europe,Slovenia,Mar-20,2020,3,763,11
+Europe,Slovenia,May-20,2020,5,1473,108
+Europe,Slovenia,Oct-20,2020,10,6768,141
+Europe,Slovenia,Sep-20,2020,9,5487,138
+Europe,Spain,Apr-20,2020,4,215183,24543
+Europe,Spain,Aug-20,2020,8,462858,29094
+Europe,Spain,Dec-19,2019,12,0,0
+Europe,Spain,Feb-20,2020,2,54,0
+Europe,Spain,Jan-20,2020,1,0,0
+Europe,Spain,Jul-20,2020,7,288522,28445
+Europe,Spain,Jun-20,2020,6,249271,28355
+Europe,Spain,Mar-20,2020,3,104267,7340
+Europe,Spain,May-20,2020,5,239429,27127
+Europe,Spain,Oct-20,2020,10,825410,32486
+Europe,Spain,Sep-20,2020,9,769188,31791
+Europe,Sweden,Apr-20,2020,4,20968,2803
+Europe,Sweden,Aug-20,2020,8,84233,5832
+Europe,Sweden,Dec-19,2019,12,0,0
+Europe,Sweden,Feb-20,2020,2,11,0
+Europe,Sweden,Jan-20,2020,1,0,0
+Europe,Sweden,Jul-20,2020,7,76680,5754
+Europe,Sweden,Jun-20,2020,6,67059,5479
+Europe,Sweden,Mar-20,2020,3,4360,289
+Europe,Sweden,May-20,2020,5,38390,4593
+Europe,Sweden,Oct-20,2020,10,96145,5883
+Europe,Sweden,Sep-20,2020,9,93153,5880
+Europe,Switzerland,Apr-20,2020,4,29324,1407
+Europe,Switzerland,Aug-20,2020,8,41906,1724
+Europe,Switzerland,Dec-19,2019,12,0,0
+Europe,Switzerland,Feb-20,2020,2,12,0
+Europe,Switzerland,Jan-20,2020,1,0,0
+Europe,Switzerland,Jul-20,2020,7,34933,1703
+Europe,Switzerland,Jun-20,2020,6,31569,1681
+Europe,Switzerland,Mar-20,2020,3,15412,295
+Europe,Switzerland,May-20,2020,5,30762,1656
+Europe,Switzerland,Oct-20,2020,10,56502,1786
+Europe,Switzerland,Sep-20,2020,9,52751,1781
+Europe,Ukraine,Apr-20,2020,4,9866,250
+Europe,Ukraine,Aug-20,2020,8,119074,2527
+Europe,Ukraine,Jul-20,2020,7,68794,1673
+Europe,Ukraine,Jun-20,2020,6,43628,1147
+Europe,Ukraine,Mar-20,2020,3,480,11
+Europe,Ukraine,May-20,2020,5,23204,696
+Europe,Ukraine,Oct-20,2020,10,234584,4520
+Europe,Ukraine,Sep-20,2020,9,204932,4065
+Europe,United Kingdom,Apr-20,2020,4,167150,26049
+Europe,United Kingdom,Aug-20,2020,8,334467,41499
+Europe,United Kingdom,Dec-19,2019,12,0,0
+Europe,United Kingdom,Feb-20,2020,2,30,0
+Europe,United Kingdom,Jan-20,2020,1,0,0
+Europe,United Kingdom,Jul-20,2020,7,302301,41169
+Europe,United Kingdom,Jun-20,2020,6,283541,40341
+Europe,United Kingdom,Mar-20,2020,3,29681,2050
+Europe,United Kingdom,May-20,2020,5,254390,37385
+Europe,United Kingdom,Oct-20,2020,10,530113,42445
+Europe,United Kingdom,Sep-20,2020,9,446156,42072
+North America,Antigua and Barbuda,Apr-20,2020,4,24,3
+North America,Antigua and Barbuda,Aug-20,2020,8,94,3
+North America,Antigua and Barbuda,Jul-20,2020,7,91,3
+North America,Antigua and Barbuda,Jun-20,2020,6,66,3
+North America,Antigua and Barbuda,Mar-20,2020,3,7,0
+North America,Antigua and Barbuda,May-20,2020,5,25,3
+North America,Antigua and Barbuda,Oct-20,2020,10,108,3
+North America,Antigua and Barbuda,Sep-20,2020,9,101,3
+North America,Bahamas,Apr-20,2020,4,80,11
+North America,Bahamas,Aug-20,2020,8,2167,43
+North America,Bahamas,Jul-20,2020,7,508,14
+North America,Bahamas,Jun-20,2020,6,104,11
+North America,Bahamas,Mar-20,2020,3,14,0
+North America,Bahamas,May-20,2020,5,102,11
+North America,Bahamas,Oct-20,2020,10,4559,100
+North America,Bahamas,Sep-20,2020,9,3903,91
+North America,Barbados,Apr-20,2020,4,80,7
+North America,Barbados,Aug-20,2020,8,173,7
+North America,Barbados,Jul-20,2020,7,110,7
+North America,Barbados,Jun-20,2020,6,97,7
+North America,Barbados,Mar-20,2020,3,34,0
+North America,Barbados,May-20,2020,5,92,7
+North America,Barbados,Oct-20,2020,10,200,7
+North America,Barbados,Sep-20,2020,9,190,7
+North America,Belize,Apr-20,2020,4,18,2
+North America,Belize,Aug-20,2020,8,994,13
+North America,Belize,Jul-20,2020,7,48,2
+North America,Belize,Jun-20,2020,6,24,2
+North America,Belize,Mar-20,2020,3,3,0
+North America,Belize,May-20,2020,5,18,2
+North America,Belize,Oct-20,2020,10,2243,34
+North America,Belize,Sep-20,2020,9,1943,26
+North America,Canada,Apr-20,2020,4,51587,2996
+North America,Canada,Aug-20,2020,8,127940,9117
+North America,Canada,Dec-19,2019,12,0,0
+North America,Canada,Feb-20,2020,2,16,0
+North America,Canada,Jan-20,2020,1,3,0
+North America,Canada,Jul-20,2020,7,115785,8929
+North America,Canada,Jun-20,2020,6,103907,8566
+North America,Canada,Mar-20,2020,3,7424,89
+North America,Canada,May-20,2020,5,90179,7073
+North America,Canada,Oct-20,2020,10,171323,9530
+North America,Canada,Sep-20,2020,9,156961,9291
+North America,Costa Rica,Apr-20,2020,4,713,6
+North America,Costa Rica,Aug-20,2020,8,39699,418
+North America,Costa Rica,Jul-20,2020,7,17290,140
+North America,Costa Rica,Jun-20,2020,6,3269,15
+North America,Costa Rica,Mar-20,2020,3,330,2
+North America,Costa Rica,May-20,2020,5,1047,10
+North America,Costa Rica,Oct-20,2020,10,82142,1004
+North America,Costa Rica,Sep-20,2020,9,74604,880
+North America,Cuba,Apr-20,2020,4,1467,58
+North America,Cuba,Aug-20,2020,8,3973,94
+North America,Cuba,Jul-20,2020,7,2597,87
+North America,Cuba,Jun-20,2020,6,2340,86
+North America,Cuba,Mar-20,2020,3,170,4
+North America,Cuba,May-20,2020,5,2025,83
+North America,Cuba,Oct-20,2020,10,5883,123
+North America,Cuba,Sep-20,2020,9,5531,122
+North America,Dominica,Apr-20,2020,4,16,0
+North America,Dominica,Aug-20,2020,8,20,0
+North America,Dominica,Jul-20,2020,7,18,0
+North America,Dominica,Jun-20,2020,6,18,0
+North America,Dominica,Mar-20,2020,3,11,0
+North America,Dominica,May-20,2020,5,16,0
+North America,Dominica,Oct-20,2020,10,31,0
+North America,Dominica,Sep-20,2020,9,24,0
+North America,Dominican Republic,Apr-20,2020,4,6652,293
+North America,Dominican Republic,Aug-20,2020,8,94241,1681
+North America,Dominican Republic,Dec-19,2019,12,0,0
+North America,Dominican Republic,Feb-20,2020,2,0,0
+North America,Dominican Republic,Jan-20,2020,1,0,0
+North America,Dominican Republic,Jul-20,2020,7,67915,1146
+North America,Dominican Republic,Jun-20,2020,6,31816,733
+North America,Dominican Republic,Mar-20,2020,3,901,42
+North America,Dominican Republic,May-20,2020,5,16908,498
+North America,Dominican Republic,Oct-20,2020,10,115371,2149
+North America,Dominican Republic,Sep-20,2020,9,111900,2101
+North America,El Salvador,Apr-20,2020,4,377,9
+North America,El Salvador,Aug-20,2020,8,25729,717
+North America,El Salvador,Jul-20,2020,7,16230,439
+North America,El Salvador,Jun-20,2020,6,6173,164
+North America,El Salvador,Mar-20,2020,3,32,0
+North America,El Salvador,May-20,2020,5,2517,46
+North America,El Salvador,Oct-20,2020,10,29737,873
+North America,El Salvador,Sep-20,2020,9,28981,843
+North America,Grenada,Apr-20,2020,4,20,0
+North America,Grenada,Aug-20,2020,8,24,0
+North America,Grenada,Jul-20,2020,7,24,0
+North America,Grenada,Jun-20,2020,6,23,0
+North America,Grenada,Mar-20,2020,3,9,0
+North America,Grenada,May-20,2020,5,23,0
+North America,Grenada,Oct-20,2020,10,24,0
+North America,Grenada,Sep-20,2020,9,24,0
+North America,Guatemala,Apr-20,2020,4,585,16
+North America,Guatemala,Aug-20,2020,8,73912,2740
+North America,Guatemala,Jul-20,2020,7,48826,1867
+North America,Guatemala,Jun-20,2020,6,17409,746
+North America,Guatemala,Mar-20,2020,3,36,1
+North America,Guatemala,May-20,2020,5,4739,102
+North America,Guatemala,Oct-20,2020,10,94870,3310
+North America,Guatemala,Sep-20,2020,9,90968,3238
+North America,Haiti,Apr-20,2020,4,76,6
+North America,Haiti,Aug-20,2020,8,8209,201
+North America,Haiti,Jul-20,2020,7,7412,161
+North America,Haiti,Jun-20,2020,6,5933,105
+North America,Haiti,Mar-20,2020,3,15,0
+North America,Haiti,May-20,2020,5,1865,41
+North America,Haiti,Oct-20,2020,10,8838,229
+North America,Haiti,Sep-20,2020,9,8747,229
+North America,Honduras,Apr-20,2020,4,771,71
+North America,Honduras,Aug-20,2020,8,60174,1858
+North America,Honduras,Jul-20,2020,7,41426,1312
+North America,Honduras,Jun-20,2020,6,18818,485
+North America,Honduras,Mar-20,2020,3,141,7
+North America,Honduras,May-20,2020,5,5094,201
+North America,Honduras,Oct-20,2020,10,80662,2447
+North America,Honduras,Sep-20,2020,9,76098,2323
+North America,Jamaica,Apr-20,2020,4,396,7
+North America,Jamaica,Aug-20,2020,8,2357,21
+North America,Jamaica,Jul-20,2020,7,864,10
+North America,Jamaica,Jun-20,2020,6,698,10
+North America,Jamaica,Mar-20,2020,3,38,1
+North America,Jamaica,May-20,2020,5,581,9
+North America,Jamaica,Oct-20,2020,10,7109,123
+North America,Jamaica,Sep-20,2020,9,6382,100
+North America,Mexico,Apr-20,2020,4,17799,1732
+North America,Mexico,Aug-20,2020,8,595841,64158
+North America,Mexico,Dec-19,2019,12,0,0
+North America,Mexico,Feb-20,2020,2,2,0
+North America,Mexico,Jan-20,2020,1,0,0
+North America,Mexico,Jul-20,2020,7,416179,46000
+North America,Mexico,Jun-20,2020,6,220657,27121
+North America,Mexico,Mar-20,2020,3,1094,28
+North America,Mexico,May-20,2020,5,87512,9779
+North America,Mexico,Oct-20,2020,10,769558,79714
+North America,Mexico,Sep-20,2020,9,738163,77163
+North America,Nicaragua,Apr-20,2020,4,14,4
+North America,Nicaragua,Aug-20,2020,8,4494,137
+North America,Nicaragua,Jul-20,2020,7,3672,116
+North America,Nicaragua,Jun-20,2020,6,2170,74
+North America,Nicaragua,Mar-20,2020,3,4,1
+North America,Nicaragua,May-20,2020,5,759,35
+North America,Nicaragua,Oct-20,2020,10,5264,153
+North America,Nicaragua,Sep-20,2020,9,5170,151
+North America,Panama,Apr-20,2020,4,6378,178
+North America,Panama,Aug-20,2020,8,92065,1995
+North America,Panama,Jul-20,2020,7,64191,1397
+North America,Panama,Jun-20,2020,6,32785,620
+North America,Panama,Mar-20,2020,3,1075,26
+North America,Panama,May-20,2020,5,13018,330
+North America,Panama,Oct-20,2020,10,116602,2440
+North America,Panama,Sep-20,2020,9,111853,2364
+North America,St. Kitts and Nevis,Apr-20,2020,4,15,0
+North America,St. Kitts and Nevis,Aug-20,2020,8,17,0
+North America,St. Kitts and Nevis,Jul-20,2020,7,17,0
+North America,St. Kitts and Nevis,Jun-20,2020,6,15,0
+North America,St. Kitts and Nevis,Mar-20,2020,3,7,0
+North America,St. Kitts and Nevis,May-20,2020,5,15,0
+North America,St. Kitts and Nevis,Oct-20,2020,10,19,0
+North America,St. Kitts and Nevis,Sep-20,2020,9,19,0
+North America,St. Lucia,Apr-20,2020,4,17,0
+North America,St. Lucia,Aug-20,2020,8,26,0
+North America,St. Lucia,Jul-20,2020,7,25,0
+North America,St. Lucia,Jun-20,2020,6,19,0
+North America,St. Lucia,Mar-20,2020,3,9,0
+North America,St. Lucia,May-20,2020,5,18,0
+North America,St. Lucia,Oct-20,2020,10,27,0
+North America,St. Lucia,Sep-20,2020,9,27,0
+North America,St. Vincent and the Grenadines,Apr-20,2020,4,16,0
+North America,St. Vincent and the Grenadines,Aug-20,2020,8,60,0
+North America,St. Vincent and the Grenadines,Jul-20,2020,7,52,0
+North America,St. Vincent and the Grenadines,Jun-20,2020,6,29,0
+North America,St. Vincent and the Grenadines,Mar-20,2020,3,1,0
+North America,St. Vincent and the Grenadines,May-20,2020,5,26,0
+North America,St. Vincent and the Grenadines,Oct-20,2020,10,64,0
+North America,St. Vincent and the Grenadines,Sep-20,2020,9,64,0
+North America,Trinidad and Tobago,Apr-20,2020,4,116,8
+North America,Trinidad and Tobago,Aug-20,2020,8,1683,21
+North America,Trinidad and Tobago,Jul-20,2020,7,164,8
+North America,Trinidad and Tobago,Jun-20,2020,6,126,8
+North America,Trinidad and Tobago,Mar-20,2020,3,85,3
+North America,Trinidad and Tobago,May-20,2020,5,117,8
+North America,Trinidad and Tobago,Oct-20,2020,10,4846,83
+North America,Trinidad and Tobago,Sep-20,2020,9,4463,74
+North America,United States,Apr-20,2020,4,1039909,60966
+North America,United States,Aug-20,2020,8,5997163,183069
+North America,United States,Dec-19,2019,12,0,0
+North America,United States,Feb-20,2020,2,66,0
+North America,United States,Jan-20,2020,1,6,0
+North America,United States,Jul-20,2020,7,4495014,152070
+North America,United States,Jun-20,2020,6,2590552,126140
+North America,United States,Mar-20,2020,3,164620,3170
+North America,United States,May-20,2020,5,1770384,103781
+North America,United States,Oct-20,2020,10,7501612,210909
+North America,United States,Sep-20,2020,9,7191061,205998
+Oceania,Australia,Apr-20,2020,4,6746,90
+Oceania,Australia,Aug-20,2020,8,25670,611
+Oceania,Australia,Dec-19,2019,12,0,0
+Oceania,Australia,Feb-20,2020,2,25,0
+Oceania,Australia,Jan-20,2020,1,7,0
+Oceania,Australia,Jul-20,2020,7,16303,189
+Oceania,Australia,Jun-20,2020,6,7767,104
+Oceania,Australia,Mar-20,2020,3,4557,19
+Oceania,Australia,May-20,2020,5,7185,102
+Oceania,Australia,Oct-20,2020,10,27174,895
+Oceania,Australia,Sep-20,2020,9,27063,882
+Oceania,Fiji,Apr-20,2020,4,18,0
+Oceania,Fiji,Aug-20,2020,8,28,2
+Oceania,Fiji,Jul-20,2020,7,27,0
+Oceania,Fiji,Jun-20,2020,6,18,0
+Oceania,Fiji,Mar-20,2020,3,5,0
+Oceania,Fiji,May-20,2020,5,18,0
+Oceania,Fiji,Oct-20,2020,10,32,2
+Oceania,Fiji,Sep-20,2020,9,32,2
+Oceania,New Zealand,Apr-20,2020,4,1129,19
+Oceania,New Zealand,Aug-20,2020,8,1387,22
+Oceania,New Zealand,Dec-19,2019,12,0,0
+Oceania,New Zealand,Feb-20,2020,2,1,0
+Oceania,New Zealand,Jan-20,2020,1,0,0
+Oceania,New Zealand,Jul-20,2020,7,1210,22
+Oceania,New Zealand,Jun-20,2020,6,1178,22
+Oceania,New Zealand,Mar-20,2020,3,647,1
+Oceania,New Zealand,May-20,2020,5,1154,22
+Oceania,New Zealand,Oct-20,2020,10,1505,25
+Oceania,New Zealand,Sep-20,2020,9,1480,25
+Oceania,Papua New Guinea,Apr-20,2020,4,8,0
+Oceania,Papua New Guinea,Aug-20,2020,8,459,5
+Oceania,Papua New Guinea,Jul-20,2020,7,72,2
+Oceania,Papua New Guinea,Jun-20,2020,6,11,0
+Oceania,Papua New Guinea,Mar-20,2020,3,1,0
+Oceania,Papua New Guinea,May-20,2020,5,8,0
+Oceania,Papua New Guinea,Oct-20,2020,10,541,7
+Oceania,Papua New Guinea,Sep-20,2020,9,534,7
+South America,Argentina,Apr-20,2020,4,4272,214
+South America,Argentina,Aug-20,2020,8,401226,8401
+South America,Argentina,Jul-20,2020,7,178983,3311
+South America,Argentina,Jun-20,2020,6,62255,1280
+South America,Argentina,Mar-20,2020,3,966,24
+South America,Argentina,May-20,2020,5,16201,528
+South America,Argentina,Oct-20,2020,10,824455,21827
+South America,Argentina,Sep-20,2020,9,736596,16519
+South America,Bolivia,Apr-20,2020,4,1110,59
+South America,Bolivia,Aug-20,2020,8,115968,4966
+South America,Bolivia,Jul-20,2020,7,75234,2894
+South America,Bolivia,Jun-20,2020,6,32125,1071
+South America,Bolivia,Mar-20,2020,3,107,6
+South America,Bolivia,May-20,2020,5,9592,310
+South America,Bolivia,Oct-20,2020,10,137468,8156
+South America,Bolivia,Sep-20,2020,9,134641,7931
+South America,Brazil,Apr-20,2020,4,78162,5466
+South America,Brazil,Aug-20,2020,8,3862311,120828
+South America,Brazil,Dec-19,2019,12,0,0
+South America,Brazil,Feb-20,2020,2,1,0
+South America,Brazil,Jan-20,2020,1,0,0
+South America,Brazil,Jul-20,2020,7,2610102,91263
+South America,Brazil,Jun-20,2020,6,1368195,58314
+South America,Brazil,Mar-20,2020,3,4579,159
+South America,Brazil,May-20,2020,5,498440,28834
+South America,Brazil,Oct-20,2020,10,4969141,147494
+South America,Brazil,Sep-20,2020,9,4777522,142921
+South America,Chile,Apr-20,2020,4,14885,216
+South America,Chile,Aug-20,2020,8,409974,11244
+South America,Chile,Jul-20,2020,7,353536,9377
+South America,Chile,Jun-20,2020,6,275999,5575
+South America,Chile,Mar-20,2020,3,2449,8
+South America,Chile,May-20,2020,5,94858,997
+South America,Chile,Oct-20,2020,10,473306,13070
+South America,Chile,Sep-20,2020,9,461300,12725
+South America,Colombia,Apr-20,2020,4,6211,278
+South America,Colombia,Aug-20,2020,8,607938,19364
+South America,Colombia,Jul-20,2020,7,286020,9810
+South America,Colombia,Jun-20,2020,6,95043,3223
+South America,Colombia,Mar-20,2020,3,798,14
+South America,Colombia,May-20,2020,5,28236,890
+South America,Colombia,Oct-20,2020,10,869808,27017
+South America,Colombia,Sep-20,2020,9,824042,25828
+South America,Ecuador,Apr-20,2020,4,24675,883
+South America,Ecuador,Aug-20,2020,8,113648,6555
+South America,Ecuador,Dec-19,2019,12,0,0
+South America,Ecuador,Feb-20,2020,2,0,0
+South America,Ecuador,Jan-20,2020,1,0,0
+South America,Ecuador,Jul-20,2020,7,84370,5657
+South America,Ecuador,Jun-20,2020,6,55665,4502
+South America,Ecuador,Mar-20,2020,3,1966,62
+South America,Ecuador,May-20,2020,5,38571,3334
+South America,Ecuador,Oct-20,2020,10,142056,11702
+South America,Ecuador,Sep-20,2020,9,135749,11312
+South America,Guyana,Apr-20,2020,4,78,8
+South America,Guyana,Aug-20,2020,8,1234,37
+South America,Guyana,Jul-20,2020,7,401,20
+South America,Guyana,Jun-20,2020,6,235,12
+South America,Guyana,Mar-20,2020,3,8,1
+South America,Guyana,May-20,2020,5,152,12
+South America,Guyana,Oct-20,2020,10,3188,92
+South America,Guyana,Sep-20,2020,9,2846,78
+South America,Paraguay,Apr-20,2020,4,249,9
+South America,Paraguay,Aug-20,2020,8,17195,308
+South America,Paraguay,Jul-20,2020,7,5207,47
+South America,Paraguay,Jun-20,2020,6,2191,16
+South America,Paraguay,Mar-20,2020,3,65,3
+South America,Paraguay,May-20,2020,5,964,11
+South America,Paraguay,Oct-20,2020,10,45647,966
+South America,Paraguay,Sep-20,2020,9,40101,841
+South America,Peru,Apr-20,2020,4,33931,943
+South America,Peru,Aug-20,2020,8,647166,28788
+South America,Peru,Jul-20,2020,7,407492,19021
+South America,Peru,Jun-20,2020,6,282365,9504
+South America,Peru,Mar-20,2020,3,950,24
+South America,Peru,May-20,2020,5,155671,4371
+South America,Peru,Oct-20,2020,10,832929,32914
+South America,Peru,Sep-20,2020,9,811768,32396
+South America,Suriname,Apr-20,2020,4,10,1
+South America,Suriname,Aug-20,2020,8,4009,67
+South America,Suriname,Jul-20,2020,7,1650,26
+South America,Suriname,Jun-20,2020,6,501,13
+South America,Suriname,Mar-20,2020,3,8,0
+South America,Suriname,May-20,2020,5,14,1
+South America,Suriname,Oct-20,2020,10,4965,106
+South America,Suriname,Sep-20,2020,9,4863,104
+South America,Uruguay,Apr-20,2020,4,630,15
+South America,Uruguay,Aug-20,2020,8,1585,44
+South America,Uruguay,Jul-20,2020,7,1243,35
+South America,Uruguay,Jun-20,2020,6,932,27
+South America,Uruguay,Mar-20,2020,3,324,1
+South America,Uruguay,May-20,2020,5,821,22
+South America,Uruguay,Oct-20,2020,10,2177,49
+South America,Uruguay,Sep-20,2020,9,2033,48
+South America,Venezuela,Apr-20,2020,4,331,10
+South America,Venezuela,Aug-20,2020,8,45868,381
+South America,Venezuela,Jul-20,2020,7,17859,158
+South America,Venezuela,Jun-20,2020,6,5530,48
+South America,Venezuela,Mar-20,2020,3,135,3
+South America,Venezuela,May-20,2020,5,1459,14
+South America,Venezuela,Oct-20,2020,10,79796,665
+South America,Venezuela,Sep-20,2020,9,74363,621
